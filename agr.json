@@ -1,6 +1,5 @@
 {
-  "values": {
-    "colors": {
+  "colors": {
       "primary": {
         "25": {
           "value": "#f9fbf9",
@@ -851,11 +850,4 @@
         }
       }
     }
-  },
-  "$themes": [],
-  "$metadata": {
-    "tokenSetOrder": [
-      "values"
-    ]
-  }
 }
