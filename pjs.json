@@ -123,7 +123,7 @@
         "type": "color"
       },
       "500": {
-        "value": "#1d2939",
+        "value": "#9e9e9e",
         "type": "color",
         "description": "Main Color"
       },
@@ -148,27 +148,27 @@
     },
     "error": {
       "25": {
-        "value": "#fff6f4",
+        "value": "#fffafa",
         "type": "color"
       },
       "50": {
-        "value": "#fce0dc",
+        "value": "#fce4e1",
         "type": "color"
       },
       "100": {
-        "value": "#f9cac3",
+        "value": "#f9cdc8",
         "type": "color"
       },
       "200": {
-        "value": "#f39e92",
+        "value": "#f3a096",
         "type": "color"
       },
       "300": {
-        "value": "#ec7262",
+        "value": "#ec7464",
         "type": "color"
       },
       "400": {
-        "value": "#e64631",
+        "value": "#e64732",
         "type": "color"
       },
       "500": {
@@ -178,11 +178,13 @@
       },
       "600": {
         "value": "#b31500",
-        "type": "color"
+        "type": "color",
+        "description": "Icon"
       },
       "700": {
         "value": "#861000",
-        "type": "color"
+        "type": "color",
+        "description": "Text Primary"
       },
       "800": {
         "value": "#5a0a00",
@@ -190,7 +192,8 @@
       },
       "900": {
         "value": "#2d0500",
-        "type": "color"
+        "type": "color",
+        "description": "Text Primary Color"
       }
     },
     "warning": {
@@ -225,11 +228,13 @@
       },
       "600": {
         "value": "#c77407",
-        "type": "color"
+        "type": "color",
+        "description": "Icon"
       },
       "700": {
         "value": "#975805",
-        "type": "color"
+        "type": "color",
+        "description": "Text"
       },
       "800": {
         "value": "#663b04",
@@ -272,11 +277,13 @@
       },
       "600": {
         "value": "#04763f",
-        "type": "color"
+        "type": "color",
+        "description": "Icon"
       },
       "700": {
         "value": "#03592f",
-        "type": "color"
+        "type": "color",
+        "description": "Text"
       },
       "800": {
         "value": "#023b20",
@@ -319,11 +326,13 @@
       },
       "600": {
         "value": "#257cd9",
-        "type": "color"
+        "type": "color",
+        "description": "Icon"
       },
       "700": {
         "value": "#1c67b8",
-        "type": "color"
+        "type": "color",
+        "description": "Text"
       },
       "800": {
         "value": "#145397",
@@ -337,10 +346,44 @@
     "base": {
       "white": {
         "value": "#ffffff",
-        "type": "color"
+        "type": "color",
+        "description": "Background, Text"
       },
       "black": {
-        "value": "#212121",
+        "value": "#000000",
+        "type": "color",
+        "description": "Text"
+      }
+    },
+    "others": {
+      "Card": {
+        "value": "#f3f4f9",
+        "type": "color"
+      },
+      "Hijau pijar": {
+        "value": "#8bc53f",
+        "type": "color"
+      }
+    },
+    "gradation": {
+      "Blue 1": {
+        "value": "linear-gradient(180deg, #51c8ec 0%, #3088c8 100%)",
+        "type": "color"
+      },
+      "orange": {
+        "value": "linear-gradient(180deg, #ffc932 0%, #f69421 100%)",
+        "type": "color"
+      },
+      "Yellow": {
+        "value": "linear-gradient(180deg, #fff100 0%, #e1ae25 100%)",
+        "type": "color"
+      },
+      "Brown": {
+        "value": "linear-gradient(180deg, #fbad18 0%, #c66328 100%)",
+        "type": "color"
+      },
+      "Red": {
+        "value": "linear-gradient(180deg, #ed1f24 0%, #a72649 100%)",
         "type": "color"
       }
     }
