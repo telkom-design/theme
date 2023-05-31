@@ -390,11 +390,11 @@
   },
   "typography": {
     "heading": {
-      "value": "Nunito Sans",
+      "value": "Rounded Mplus 1c",
       "type": "fontFamilies"
     },
     "body": {
-      "value": "Nunito Sans",
+      "value": "Rounded Mplus 1c",
       "type": "fontFamilies"
     }
   },
