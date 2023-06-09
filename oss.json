@@ -2,7 +2,7 @@
   "colors": {
     "primary": {
         "25": {
-          "value": "white",
+          "value": "green",
           "type": "color"
         },
         "50": {
