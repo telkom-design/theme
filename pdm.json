@@ -616,7 +616,7 @@
       },
       "active": {
         "backgroundColor": {
-          "value": "{primary.300}",
+          "value": "{base.white}",
           "type": "color"
         },
         "color": {
@@ -626,7 +626,7 @@
       },
       "focus": {
         "backgroundColor": {
-          "value": "{primary.50}",
+          "value": "{base.white}",
           "type": "color"
         },
         "color": {
