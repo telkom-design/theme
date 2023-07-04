@@ -499,7 +499,7 @@
     "solid": {
       "default": {
         "backgroundColor": {
-          "value": "{error.500}",
+          "value": "{primary.500}",
           "type": "color"
         },
         "color": {
