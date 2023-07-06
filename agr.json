@@ -412,6 +412,10 @@
         "value": "{tertiary.400}",
         "type": "color"
       }
+    },
+    "fontWeight": {
+      "value": "700",
+      "type": "fontWeights"
     }
   },
   "badge": {
@@ -606,6 +610,10 @@
         "color": {
           "value": "{primary.500}",
           "type": "color"
+        },
+        "borderColor": {
+          "value": "{primary.400}",
+          "type": "color"
         }
       },
       "hover": {
@@ -616,6 +624,10 @@
         "color": {
           "value": "{primary.600}",
           "type": "color"
+        },
+        "borderColor": {
+          "value": "{primary.500}",
+          "type": "color"
         }
       },
       "active": {
@@ -625,6 +637,10 @@
         },
         "color": {
           "value": "{primary.700}",
+          "type": "color"
+        },
+        "borderColor": {
+          "value": "{primary.600}",
           "type": "color"
         }
       },
@@ -708,6 +724,14 @@
           "type": "color"
         }
       }
+    },
+    "fontWeight": {
+      "value": "700",
+      "type": "fontWeights"
+    },
+    "borderWidth": {
+      "value": "2",
+      "type": "borderWidth"
     }
   },
   "checkbox": {
