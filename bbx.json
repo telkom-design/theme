@@ -427,6 +427,10 @@
         "value": "{tertiary.400}",
         "type": "color"
       }
+    },
+    "fontWeight": {
+      "value": "700",
+      "type": "fontWeights"
     }
   },
   "badge": {
