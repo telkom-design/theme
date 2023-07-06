@@ -390,12 +390,20 @@
   },
   "typography": {
     "heading": {
-      "value": "Rounded Mplus 1c",
+      "value": "mplus rounded 1c",
       "type": "fontFamilies"
     },
     "body": {
-      "value": "Rounded Mplus 1c",
+      "value": "mplus rounded 1c",
       "type": "fontFamilies"
+    },
+    "primary": {
+      "value": "{tertiary.800}",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "{tertiary.700}",
+      "type": "color"
     }
   },
   "radius": {
@@ -534,7 +542,7 @@
     "solid": {
       "default": {
         "backgroundColor": {
-          "value": "{primary.500}",
+          "value": "{secondary.500}",
           "type": "color"
         },
         "color": {
