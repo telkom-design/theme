@@ -390,11 +390,11 @@
   },
   "typography": {
     "heading": {
-      "value": "\"rounded mplus 1c\"",
+      "value": "\"M PLUS Rounded 1c\"",
       "type": "fontFamilies"
     },
     "body": {
-      "value": "\"rounded mplus 1c\"",
+      "value": "\"M PLUS Rounded 1c\"",
       "type": "fontFamilies"
     },
     "primary": {
