@@ -2,6 +2,53 @@
   "colors": {
     "primary": {
       "25": {
+        "value": "#f1f2f6",
+        "type": "color"
+      },
+      "50": {
+        "value": "#e8eaf1",
+        "type": "color"
+      },
+      "100": {
+        "value": "#d0d4e2",
+        "type": "color"
+      },
+      "200": {
+        "value": "#b4bbd3",
+        "type": "color"
+      },
+      "300": {
+        "value": "#939ec2",
+        "type": "color"
+      },
+      "400": {
+        "value": "#677aaf",
+        "type": "color"
+      },
+      "500": {
+        "value": "#0f4f9d",
+        "type": "color",
+        "description": "Primary Color (Main)"
+      },
+      "600": {
+        "value": "#00408d",
+        "type": "color"
+      },
+      "700": {
+        "value": "#00397e",
+        "type": "color"
+      },
+      "800": {
+        "value": "#00326d",
+        "type": "color"
+      },
+      "900": {
+        "value": "#002959",
+        "type": "color"
+      }
+    },
+    "secondary": {
+      "25": {
         "value": "#f1f6f6",
         "type": "color"
       },
@@ -46,53 +93,6 @@
       },
       "900": {
         "value": "#005559",
-        "type": "color"
-      }
-    },
-    "secondary": {
-      "25": {
-        "value": "#f1f2f6",
-        "type": "color"
-      },
-      "50": {
-        "value": "#e8eaf1",
-        "type": "color"
-      },
-      "100": {
-        "value": "#d0d4e2",
-        "type": "color"
-      },
-      "200": {
-        "value": "#b4bbd3",
-        "type": "color"
-      },
-      "300": {
-        "value": "#939ec2",
-        "type": "color"
-      },
-      "400": {
-        "value": "#677aaf",
-        "type": "color"
-      },
-      "500": {
-        "value": "#0f4f9d",
-        "type": "color",
-        "description": "Primary Color (Main)"
-      },
-      "600": {
-        "value": "#00408d",
-        "type": "color"
-      },
-      "700": {
-        "value": "#00397e",
-        "type": "color"
-      },
-      "800": {
-        "value": "#00326d",
-        "type": "color"
-      },
-      "900": {
-        "value": "#002959",
         "type": "color"
       }
     },
@@ -928,7 +928,7 @@
   "switch": {
     "active": {
       "backgroundColor": {
-        "value": "{success.500}",
+        "value": "{error.500}",
         "type": "color"
       }
     },
