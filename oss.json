@@ -26,7 +26,7 @@
         "type": "color"
       },
       "500": {
-        "value": "{secondary.500}",
+        "value": "#0f4f9d",
         "type": "color"
       },
       "600": {
