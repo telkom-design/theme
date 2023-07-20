@@ -803,7 +803,7 @@
         "type": "color"
       },
       "placeholderColor": {
-        "value": "{tertiary.500}",
+        "value": "{tertiary.400}",
         "type": "color"
       },
       "labelColor": {
