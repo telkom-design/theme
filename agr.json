@@ -807,7 +807,7 @@
         "type": "color"
       },
       "labelColor": {
-        "value": "{tertiary.800}",
+        "value": "{tertiary.700}",
         "type": "color"
       }
     },
