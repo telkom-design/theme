@@ -687,7 +687,7 @@
     "transparent": {
       "default": {
         "backgroundColor": {
-          "value": "{primary.50}",
+          "value": "{base.white}",
           "type": "color"
         },
         "color": {
@@ -697,7 +697,7 @@
       },
       "hover": {
         "backgroundColor": {
-          "value": "{primary.200}",
+          "value": "{primary.25}",
           "type": "color"
         },
         "color": {
@@ -707,7 +707,7 @@
       },
       "active": {
         "backgroundColor": {
-          "value": "{primary.300}",
+          "value": "{primary.50}",
           "type": "color"
         },
         "color": {
