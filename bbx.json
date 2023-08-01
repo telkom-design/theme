@@ -647,7 +647,7 @@
       },
       "active": {
         "backgroundColor": {
-          "value": "{primary.50}",
+          "value": "{primary.100}",
           "type": "color"
         },
         "color": {
