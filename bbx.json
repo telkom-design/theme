@@ -741,11 +741,11 @@
       }
     },
     "fontWeight": {
-      "value": "700",
+      "value": "500",
       "type": "fontWeights"
     },
     "borderWidth": {
-      "value": "2",
+      "value": "1",
       "type": "borderWidth"
     }
   },
