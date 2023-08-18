@@ -671,10 +671,6 @@
     },
     "transparent": {
       "default": {
-        "backgroundColor": {
-          "value": "{base.white}",
-          "type": "color"
-        },
         "color": {
           "value": "{primary.500}",
           "type": "color"
