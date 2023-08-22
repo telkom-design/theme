@@ -928,7 +928,7 @@
   "switch": {
     "active": {
       "backgroundColor": {
-        "value": "{error.500}",
+        "value": "{secondary.500}",
         "type": "color"
       }
     },
