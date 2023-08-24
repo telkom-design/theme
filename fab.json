@@ -387,25 +387,25 @@
   "anchor": {
     "default": {
       "color": {
-        "value": "{primary.500}",
+        "value": "{secondary.500}",
         "type": "color"
       }
     },
     "hover": {
       "color": {
-        "value": "{primary.600}",
+        "value": "{secondary.600}",
         "type": "color"
       }
     },
     "active": {
       "color": {
-        "value": "{primary.700}",
+        "value": "{secondary.700}",
         "type": "color"
       }
     },
     "focus": {
       "color": {
-        "value": "{primary.500}",
+        "value": "{secondary.500}",
         "type": "color"
       }
     },
@@ -925,13 +925,13 @@
   "switch": {
     "active": {
       "backgroundColor": {
-        "value": "{success.500}",
+        "value": "{primary.500}",
         "type": "color"
       }
     },
     "activedisable": {
       "backgroundColor": {
-        "value": "{success.100}",
+        "value": "{primary.100}",
         "type": "color"
       }
     },
