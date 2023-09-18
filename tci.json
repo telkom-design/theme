@@ -2,341 +2,328 @@
   "colors": {
     "primary": {
       "25": {
-        "value": "#f5f8fd",
+        "value": "#fffdfc",
         "type": "color"
       },
       "50": {
-        "value": "#e1e9f9",
+        "value": "#fce7e5",
         "type": "color"
       },
       "100": {
-        "value": "#cddbf5",
+        "value": "#fad1cd",
         "type": "color"
       },
       "200": {
-        "value": "#acc2ef",
+        "value": "#f4a69f",
         "type": "color"
       },
       "300": {
-        "value": "#648ee1",
+        "value": "#ef7a70",
         "type": "color"
       },
       "400": {
-        "value": "#4376db",
+        "value": "#e94f42",
         "type": "color"
       },
       "500": {
-        "value": "#0549CF",
-        "type": "color",
-        "description": "Base"
+        "value": "#e42313",
+        "type": "color"
       },
       "600": {
-        "value": "#043DAC",
+        "value": "#b61c0f",
         "type": "color"
       },
       "700": {
-        "value": "#002e84",
+        "value": "#89150b",
         "type": "color"
       },
       "800": {
-        "value": "#022567",
+        "value": "#5b0e08",
         "type": "color"
       },
       "900": {
-        "value": "#00153c",
+        "value": "#2e0704",
         "type": "color"
       }
     },
     "secondary": {
       "25": {
-        "value": "#fff0f0",
+        "value": "#f5fbff",
         "type": "color"
       },
       "50": {
-        "value": "#ffd9db",
+        "value": "#f0f9ff",
         "type": "color"
       },
       "100": {
-        "value": "#ffb4b6",
-        "type": "color",
-        "description": "Main Color"
+        "value": "#e0f2fe",
+        "type": "color"
       },
       "200": {
-        "value": "#ff8e92",
+        "value": "#b9e6fe",
         "type": "color"
       },
       "300": {
-        "value": "#ff686e",
-        "type": "color",
-        "description": "Main Color"
+        "value": "#7cd4fd",
+        "type": "color"
       },
       "400": {
-        "value": "#ff4349",
+        "value": "#36bffa",
         "type": "color"
       },
       "500": {
-        "value": "#ff1d25",
+        "value": "#0ba5ec",
         "type": "color",
-        "description": "Base"
+        "description": "Main Color"
       },
       "600": {
-        "value": "#d90209",
+        "value": "#0086c9",
         "type": "color"
       },
       "700": {
-        "value": "#aa1319",
+        "value": "#026aa2",
         "type": "color"
       },
       "800": {
-        "value": "#870000",
+        "value": "#065986",
         "type": "color"
       },
       "900": {
-        "value": "#550a0c",
+        "value": "#0b4a6f",
         "type": "color"
       }
     },
     "tertiary": {
       "25": {
-        "value": "#ffffff",
-        "type": "color",
-        "description": "BG Disabled/ Card"
+        "value": "#fefefe",
+        "type": "color"
       },
       "50": {
-        "value": "#f6f6f6",
-        "type": "color",
-        "description": "Border / Divider"
+        "value": "#f0f0f0",
+        "type": "color"
       },
       "100": {
-        "value": "#efefef",
+        "value": "#e2e1e1",
         "type": "color"
       },
       "200": {
-        "value": "#e4e4e4",
-        "type": "color",
-        "description": "Placeholder / Disabled"
+        "value": "#c5c5c5",
+        "type": "color"
       },
       "300": {
-        "value": "#c9c9c9",
-        "type": "color",
-        "description": "Text Grey / Subdued"
+        "value": "#a9a8a8",
+        "type": "color"
       },
       "400": {
-        "value": "#aaaaaa",
-        "type": "color",
-        "description": "Text Secondary Color"
+        "value": "#8c8c8c",
+        "type": "color"
       },
       "500": {
-        "value": "#858585",
+        "value": "#706f6f",
         "type": "color",
-        "description": "Base"
+        "description": "Main Color"
       },
       "600": {
-        "value": "#737373",
+        "value": "#5a5959",
         "type": "color"
       },
       "700": {
-        "value": "#565656",
-        "type": "color",
-        "description": "Text Primary"
+        "value": "#434343",
+        "type": "color"
       },
       "800": {
-        "value": "#1e1e1e",
+        "value": "#2d2c2c",
         "type": "color"
       },
       "900": {
-        "value": "#000000",
-        "type": "color",
-        "description": "Text Primary Color"
+        "value": "#161616",
+        "type": "color"
       }
     },
     "error": {
       "25": {
-        "value": "#fff8f8",
+        "value": "#fffafa",
         "type": "color"
       },
       "50": {
-        "value": "#fff0f0",
+        "value": "#fef3f2",
         "type": "color"
       },
       "100": {
-        "value": "#fddbda",
+        "value": "#fee4e2",
         "type": "color"
       },
       "200": {
-        "value": "#fcc3c1",
+        "value": "#fecdc9",
         "type": "color"
       },
       "300": {
-        "value": "#f9928f",
-        "type": "color",
-        "description": "Main Color"
+        "value": "#fda19b",
+        "type": "color"
       },
       "400": {
-        "value": "#f76e6a",
+        "value": "#f97066",
         "type": "color"
       },
       "500": {
-        "value": "#f54a45",
+        "value": "#f04438",
         "type": "color",
-        "description": "Base"
+        "description": "Main Color"
       },
       "600": {
-        "value": "#cc3e39",
+        "value": "#d92d20",
         "type": "color"
       },
       "700": {
-        "value": "#af1631",
+        "value": "#b32318",
         "type": "color"
       },
       "800": {
-        "value": "#7b2522",
+        "value": "#912018",
         "type": "color"
       },
       "900": {
-        "value": "#31170e",
+        "value": "#7a271a",
         "type": "color"
       }
     },
     "warning": {
       "25": {
-        "value": "#fffbf6",
+        "value": "#fffcf5",
         "type": "color"
       },
       "50": {
-        "value": "#fff2e4",
+        "value": "#fffaeb",
         "type": "color"
       },
       "100": {
-        "value": "#ffe9d2",
+        "value": "#feefc6",
         "type": "color"
       },
       "200": {
-        "value": "#ffdbb4",
+        "value": "#fedf89",
         "type": "color"
       },
       "300": {
-        "value": "#ffbc73",
+        "value": "#fec84b",
         "type": "color"
       },
       "400": {
-        "value": "#ffae56",
+        "value": "#fdb022",
         "type": "color"
       },
       "500": {
-        "value": "#ff931e",
+        "value": "#f79009",
         "type": "color",
-        "description": "Base"
+        "description": "Main Color"
       },
       "600": {
-        "value": "#d57b19",
+        "value": "#dc6803",
         "type": "color"
       },
       "700": {
-        "value": "#a66218",
+        "value": "#b54708",
         "type": "color"
       },
       "800": {
-        "value": "#80490f",
+        "value": "#93370d",
         "type": "color"
       },
       "900": {
-        "value": "#582d00",
+        "value": "#792e0d",
         "type": "color"
       }
     },
     "success": {
       "25": {
-        "value": "#f8fffe",
+        "value": "#f6fef9",
         "type": "color"
       },
       "50": {
-        "value": "#f0fffd",
+        "value": "#ecfdf3",
         "type": "color"
       },
       "100": {
-        "value": "#cdece8",
+        "value": "#d1fadf",
         "type": "color"
       },
       "200": {
-        "value": "#abdfd8",
+        "value": "#a6f4c5",
         "type": "color"
       },
       "300": {
-        "value": "#68c6b9",
+        "value": "#6ce9a6",
         "type": "color"
       },
       "400": {
-        "value": "#35b3a2",
+        "value": "#32d583",
         "type": "color"
       },
       "500": {
-        "value": "#03a08b",
-        "type": "color",
-        "description": "Base"
+        "value": "#12b76a",
+        "type": "color"
       },
       "600": {
-        "value": "#028574",
+        "value": "#039855",
         "type": "color"
       },
       "700": {
-        "value": "#026053",
+        "value": "#027a48",
         "type": "color"
       },
       "800": {
-        "value": "#015045",
+        "value": "#05603a",
         "type": "color"
       },
       "900": {
-        "value": "#01201c",
+        "value": "#054f31",
         "type": "color"
       }
     },
     "information": {
       "25": {
-        "value": "#f2f4fc",
+        "value": "#f5f8ff",
         "type": "color"
       },
       "50": {
-        "value": "#f5faff",
+        "value": "#eff4ff",
         "type": "color"
       },
       "100": {
-        "value": "#ebf6ff",
+        "value": "#d1e0ff",
         "type": "color"
       },
       "200": {
-        "value": "#b8dffe",
+        "value": "#b2ccff",
         "type": "color"
       },
       "300": {
-        "value": "#86c8fe",
-        "type": "color",
-        "description": "Main Color"
+        "value": "#84adff",
+        "type": "color"
       },
       "400": {
-        "value": "#53b1fd",
+        "value": "#528bff",
         "type": "color"
       },
       "500": {
-        "value": "#219afd",
+        "value": "#2970ff",
         "type": "color",
-        "description": "Base"
+        "description": "Main Color"
       },
       "600": {
-        "value": "#0281e8",
+        "value": "#155eef",
         "type": "color"
       },
       "700": {
-        "value": "#0265b6",
+        "value": "#004eeb",
         "type": "color"
       },
       "800": {
-        "value": "#014983",
+        "value": "#0040c1",
         "type": "color"
       },
       "900": {
-        "value": "#012d51",
+        "value": "#00359e",
         "type": "color"
       }
     },
@@ -347,7 +334,7 @@
         "description": "Background, Text"
       },
       "black": {
-        "value": "#212121",
+        "value": "#1d1d1b",
         "type": "color",
         "description": "Text"
       }
@@ -355,11 +342,11 @@
   },
   "typography": {
     "heading": {
-      "value": "Inter",
+      "value": "Nunito Sans",
       "type": "fontFamilies"
     },
     "body": {
-      "value": "Inter",
+      "value": "Nunito Sans",
       "type": "fontFamilies"
     }
   },
