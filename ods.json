@@ -342,11 +342,11 @@
   },
   "typography": {
     "heading": {
-      "value": "Montserrat",
+      "value": "Lato",
       "type": "fontFamilies"
     },
     "body": {
-      "value": "Open Sans",
+      "value": "Lato",
       "type": "fontFamilies"
     }
   },
@@ -387,7 +387,7 @@
   "anchor": {
     "default": {
       "color": {
-        "value": "{tertiary.500}",
+        "value": "{primary.500}",
         "type": "color"
       }
     },
