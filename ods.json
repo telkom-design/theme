@@ -387,7 +387,7 @@
   "anchor": {
     "default": {
       "color": {
-        "value": "{primary.500}",
+        "value": "{tertiary.500}",
         "type": "color"
       }
     },
@@ -600,7 +600,7 @@
       }
     },
     "borderRadius": {
-      "value": "{6}",
+      "value": "{5}",
       "type": "borderRadius"
     },
     "outline": {
