@@ -483,7 +483,7 @@
     "solid": {
       "default": {
         "backgroundColor": {
-          "value": "{outline.default.color}",
+          "value": "{primary.500}",
           "type": "color"
         },
         "color": {
