@@ -490,8 +490,9 @@
     "solid": {
       "default": {
         "backgroundColor": {
-          "value": "{primary.500}",
-          "type": "color"
+          "value": "{success.500}",
+          "type": "color",
+          "description": "coba ganti warna "
         },
         "color": {
           "value": "{base.white}",
