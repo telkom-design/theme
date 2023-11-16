@@ -724,13 +724,14 @@
         }
       }
     },
-    "fontWeight": {
-      "value": "700",
-      "type": "fontWeights"
-    },
     "borderWidth": {
       "value": "2",
       "type": "borderWidth"
+    },
+    "label": {
+      "value": "{body}",
+      "type": "fontFamilies",
+      "description": "test label button\n"
     }
   },
   "checkbox": {
