@@ -728,10 +728,10 @@
       "value": "2",
       "type": "borderWidth"
     },
-    "label": {
+    "fontFamily": {
       "value": "{body}",
       "type": "fontFamilies",
-      "description": "test label button\n"
+      "description": "\n"
     }
   },
   "checkbox": {
