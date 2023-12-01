@@ -348,6 +348,125 @@
     "body": {
       "value": "Lato",
       "type": "fontFamilies"
+    },
+    "fsHeading 1": {
+      "value": "60",
+      "type": "fontSizes",
+      "description": "Font Size Heading 1"
+    },
+    "fsHeading 2": {
+      "value": "48",
+      "type": "fontSizes",
+      "description": "Font Size Heading 2"
+    },
+    "fsHeading 3": {
+      "value": "36",
+      "type": "fontSizes",
+      "description": "Font Size Heading 3\n"
+    },
+    "fsHeading 4": {
+      "value": "30",
+      "type": "fontSizes",
+      "description": "Font Size Heading 4\n"
+    },
+    "fsHeading 5": {
+      "value": "24",
+      "type": "fontSizes",
+      "description": "Font Size Heading 5"
+    },
+    "fsHeading 6": {
+      "value": "20",
+      "type": "fontSizes",
+      "description": "Font Size Heading 6"
+    },
+    "lhHeading 1": {
+      "value": "72",
+      "type": "lineHeights",
+      "description": "Line Height Heading 1"
+    },
+    "lhHeading 2": {
+      "value": "56",
+      "type": "lineHeights",
+      "description": "Line Height Heading 2"
+    },
+    "lhHeading 3": {
+      "value": "44",
+      "type": "lineHeights"
+    },
+    "lhHeading 4": {
+      "value": "40",
+      "type": "lineHeights",
+      "description": "Line Height Heading 4"
+    },
+    "lhHeading 5": {
+      "value": "36",
+      "type": "lineHeights",
+      "description": "Line Height Heading 5"
+    },
+    "lhHeading 6": {
+      "value": "28",
+      "type": "lineHeights",
+      "description": "Line Height Heading 6"
+    },
+    "fsBodyLarge": {
+      "value": "18",
+      "type": "fontSizes",
+      "description": "Font Size Body Large"
+    },
+    "fsBodySmall": {
+      "value": "16",
+      "type": "fontSizes",
+      "description": "Font Size Body Small"
+    },
+    "fsCaptionLarge": {
+      "value": "14",
+      "type": "fontSizes",
+      "description": "Font Size Caption Large"
+    },
+    "fsCaptionSmall": {
+      "value": "12",
+      "type": "fontSizes",
+      "description": "Font Size Caption Small"
+    },
+    "lhBodyLarge": {
+      "value": "28",
+      "type": "lineHeights",
+      "description": "Line Height Body Large"
+    },
+    "lhBodySmall": {
+      "value": "24",
+      "type": "lineHeights",
+      "description": "Line Height Body Small"
+    },
+    "lhCaptionLarge": {
+      "value": "21",
+      "type": "lineHeights",
+      "description": "Line Height Caption Large"
+    },
+    "lhCaptionSmall": {
+      "value": "18",
+      "type": "lineHeights",
+      "description": "Line Height Caption Small"
+    },
+    "UnderLine": {
+      "value": "underline",
+      "type": "textDecoration",
+      "description": "Font Weight Underline"
+    },
+    "Regular": {
+      "value": "400",
+      "type": "fontWeights",
+      "description": "Font Weight Regular"
+    },
+    "Semibold": {
+      "value": "600",
+      "type": "fontWeights",
+      "description": "Font Weight Semibold"
+    },
+    "Bold": {
+      "value": "700",
+      "type": "fontWeights",
+      "description": "Font Weight Bold"
     }
   },
   "radius": {
@@ -731,7 +850,7 @@
     "fontFamily": {
       "value": "{body}",
       "type": "fontFamilies",
-      "description": "\n"
+      "description": "test ganti label button\n"
     }
   },
   "checkbox": {
