@@ -349,104 +349,116 @@
       "value": "Lato",
       "type": "fontFamilies"
     },
-    "fsHeading 1": {
-      "value": "60",
-      "type": "fontSizes",
-      "description": "Font Size Heading 1"
+    "fsHeading": {
+      "Type 1": {
+        "value": "60",
+        "type": "fontSizes",
+        "description": "Font Size Heading 1"
+      },
+      "Type 2": {
+        "value": "48",
+        "type": "fontSizes",
+        "description": "Font Size Heading 2"
+      },
+      "Type 3": {
+        "value": "36",
+        "type": "fontSizes",
+        "description": "Font Size Heading 3\n"
+      },
+      "Type 4": {
+        "value": "30",
+        "type": "fontSizes",
+        "description": "Font Size Heading 4\n"
+      },
+      "Type 5": {
+        "value": "24",
+        "type": "fontSizes",
+        "description": "Font Size Heading 5"
+      },
+      "Type 6": {
+        "value": "20",
+        "type": "fontSizes",
+        "description": "Font Size Heading 6"
+      }
     },
-    "fsHeading 2": {
-      "value": "48",
-      "type": "fontSizes",
-      "description": "Font Size Heading 2"
+    "lhHeading": {
+      "Type 1": {
+        "value": "72",
+        "type": "lineHeights",
+        "description": "Line Height Heading 1"
+      },
+      "Type 2": {
+        "value": "56",
+        "type": "lineHeights",
+        "description": "Line Height Heading 2"
+      },
+      "Type 3": {
+        "value": "44",
+        "type": "lineHeights"
+      },
+      "Type 4": {
+        "value": "40",
+        "type": "lineHeights",
+        "description": "Line Height Heading 4"
+      },
+      "Type 5": {
+        "value": "36",
+        "type": "lineHeights",
+        "description": "Line Height Heading 5"
+      },
+      "Type 6": {
+        "value": "28",
+        "type": "lineHeights",
+        "description": "Line Height Heading 6"
+      }
     },
-    "fsHeading 3": {
-      "value": "36",
-      "type": "fontSizes",
-      "description": "Font Size Heading 3\n"
+    "fsBody": {
+      "Large": {
+        "value": "18",
+        "type": "fontSizes",
+        "description": "Font Size Body Large"
+      },
+      "Small": {
+        "value": "16",
+        "type": "fontSizes",
+        "description": "Font Size Body Small"
+      }
     },
-    "fsHeading 4": {
-      "value": "30",
-      "type": "fontSizes",
-      "description": "Font Size Heading 4\n"
+    "fsCaption": {
+      "Large": {
+        "value": "14",
+        "type": "fontSizes",
+        "description": "Font Size Caption Large"
+      },
+      "Small": {
+        "value": "12",
+        "type": "fontSizes",
+        "description": "Font Size Caption Small"
+      }
     },
-    "fsHeading 5": {
-      "value": "24",
-      "type": "fontSizes",
-      "description": "Font Size Heading 5"
+    "lhBody": {
+      "Large": {
+        "value": "28",
+        "type": "lineHeights",
+        "description": "Line Height Body Large"
+      },
+      "Small": {
+        "value": "24",
+        "type": "lineHeights",
+        "description": "Line Height Body Small"
+      }
     },
-    "fsHeading 6": {
-      "value": "20",
-      "type": "fontSizes",
-      "description": "Font Size Heading 6"
-    },
-    "lhHeading 1": {
-      "value": "72",
-      "type": "lineHeights",
-      "description": "Line Height Heading 1"
-    },
-    "lhHeading 2": {
-      "value": "56",
-      "type": "lineHeights",
-      "description": "Line Height Heading 2"
-    },
-    "lhHeading 3": {
-      "value": "44",
-      "type": "lineHeights"
-    },
-    "lhHeading 4": {
-      "value": "40",
-      "type": "lineHeights",
-      "description": "Line Height Heading 4"
-    },
-    "lhHeading 5": {
-      "value": "36",
-      "type": "lineHeights",
-      "description": "Line Height Heading 5"
-    },
-    "lhHeading 6": {
-      "value": "28",
-      "type": "lineHeights",
-      "description": "Line Height Heading 6"
-    },
-    "fsBodyLarge": {
-      "value": "18",
-      "type": "fontSizes",
-      "description": "Font Size Body Large"
-    },
-    "fsBodySmall": {
-      "value": "16",
-      "type": "fontSizes",
-      "description": "Font Size Body Small"
-    },
-    "fsCaptionLarge": {
-      "value": "14",
-      "type": "fontSizes",
-      "description": "Font Size Caption Large"
-    },
-    "fsCaptionSmall": {
-      "value": "12",
-      "type": "fontSizes",
-      "description": "Font Size Caption Small"
-    },
-    "lhBodyLarge": {
-      "value": "28",
-      "type": "lineHeights",
-      "description": "Line Height Body Large"
-    },
-    "lhBodySmall": {
-      "value": "24",
-      "type": "lineHeights",
-      "description": "Line Height Body Small"
-    },
-    "lhCaptionLarge": {
-      "value": "21",
-      "type": "lineHeights",
-      "description": "Line Height Caption Large"
-    },
-    "lhCaptionSmall": {
-      "value": "18",
-      "type": "lineHeights",
-      "description": "Line Height Caption Small"
+    "lhCaption": {
+      "Large": {
+        "value": "21",
+        "type": "lineHeights",
+        "description": "Line Height Caption Large"
+      },
+      "Small": {
+        "value": "18",
+        "type": "lineHeights",
+        "description": "Line Height Caption Small"
+      }
     },
     "UnderLine": {
       "value": "underline",
@@ -852,23 +864,21 @@
       "type": "fontFamilies",
       "description": "test ganti label button\n"
     },
-    "Button": {
-      "Size": {
-        "Large": {
-          "value": "{fsBodySmall}",
-          "type": "fontSizes",
-          "description": "Body Small"
-        },
-        "Medium": {
-          "value": "{fsCaptionLarge}",
-          "type": "fontSizes",
-          "description": "Caption Large"
-        },
-        "Small": {
-          "value": "{fsCaptionSmall}",
-          "type": "fontSizes",
-          "description": "Caption Small"
-        }
+    "Size": {
+      "Large": {
+        "value": "{fsBody.Small}",
+        "type": "fontSizes",
+        "description": "Body Small"
+      },
+      "Medium": {
+        "value": "{fsCaption.Large}",
+        "type": "fontSizes",
+        "description": "Caption Large"
+      },
+      "Small": {
+        "value": "{fsHeading.Type 6}",
+        "type": "fontSizes",
+        "description": "Caption Small"
       }
     },
     "SemiBold": {
@@ -1023,6 +1033,21 @@
         "value": "{primary.500}",
         "type": "color"
       }
+    },
+    "Large": {
+      "value": "{fsBody.Small}",
+      "type": "fontSizes",
+      "description": "placeholder font size\n"
+    },
+    "Medium": {
+      "value": "{fsCaption.Large}",
+      "type": "fontSizes",
+      "description": "Placeholder font size medium"
+    },
+    "Small": {
+      "value": "{fsCaption.Small}",
+      "type": "fontSizes",
+      "description": "Placeholder font size"
     }
   },
   "radio": {
