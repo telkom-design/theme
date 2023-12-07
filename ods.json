@@ -851,6 +851,30 @@
       "value": "{body}",
       "type": "fontFamilies",
       "description": "test ganti label button\n"
+    },
+    "Button": {
+      "Size": {
+        "Large": {
+          "value": "{fsBodySmall}",
+          "type": "fontSizes",
+          "description": "Body Small"
+        },
+        "Medium": {
+          "value": "{fsCaptionLarge}",
+          "type": "fontSizes",
+          "description": "Caption Large"
+        },
+        "Small": {
+          "value": "{fsCaptionSmall}",
+          "type": "fontSizes",
+          "description": "Caption Small"
+        }
+      }
+    },
+    "SemiBold": {
+      "value": "{Semibold}",
+      "type": "fontWeights",
+      "description": "semibold"
     }
   },
   "checkbox": {
