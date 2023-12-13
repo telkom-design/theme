@@ -348,137 +348,6 @@
     "body": {
       "value": "Lato",
       "type": "fontFamilies"
-    },
-    "fsHeading": {
-      "Type 1": {
-        "value": "60",
-        "type": "fontSizes",
-        "description": "Font Size Heading 1"
-      },
-      "Type 2": {
-        "value": "48",
-        "type": "fontSizes",
-        "description": "Font Size Heading 2"
-      },
-      "Type 3": {
-        "value": "36",
-        "type": "fontSizes",
-        "description": "Font Size Heading 3\n"
-      },
-      "Type 4": {
-        "value": "30",
-        "type": "fontSizes",
-        "description": "Font Size Heading 4\n"
-      },
-      "Type 5": {
-        "value": "24",
-        "type": "fontSizes",
-        "description": "Font Size Heading 5"
-      },
-      "Type 6": {
-        "value": "20",
-        "type": "fontSizes",
-        "description": "Font Size Heading 6"
-      }
-    },
-    "lhHeading": {
-      "Type 1": {
-        "value": "72",
-        "type": "lineHeights",
-        "description": "Line Height Heading 1"
-      },
-      "Type 2": {
-        "value": "56",
-        "type": "lineHeights",
-        "description": "Line Height Heading 2"
-      },
-      "Type 3": {
-        "value": "44",
-        "type": "lineHeights"
-      },
-      "Type 4": {
-        "value": "40",
-        "type": "lineHeights",
-        "description": "Line Height Heading 4"
-      },
-      "Type 5": {
-        "value": "36",
-        "type": "lineHeights",
-        "description": "Line Height Heading 5"
-      },
-      "Type 6": {
-        "value": "28",
-        "type": "lineHeights",
-        "description": "Line Height Heading 6"
-      }
-    },
-    "fsBody": {
-      "Large": {
-        "value": "18",
-        "type": "fontSizes",
-        "description": "Font Size Body Large"
-      },
-      "Small": {
-        "value": "16",
-        "type": "fontSizes",
-        "description": "Font Size Body Small"
-      }
-    },
-    "fsCaption": {
-      "Large": {
-        "value": "14",
-        "type": "fontSizes",
-        "description": "Font Size Caption Large"
-      },
-      "Small": {
-        "value": "12",
-        "type": "fontSizes",
-        "description": "Font Size Caption Small"
-      }
-    },
-    "lhBody": {
-      "Large": {
-        "value": "28",
-        "type": "lineHeights",
-        "description": "Line Height Body Large"
-      },
-      "Small": {
-        "value": "24",
-        "type": "lineHeights",
-        "description": "Line Height Body Small"
-      }
-    },
-    "lhCaption": {
-      "Large": {
-        "value": "21",
-        "type": "lineHeights",
-        "description": "Line Height Caption Large"
-      },
-      "Small": {
-        "value": "18",
-        "type": "lineHeights",
-        "description": "Line Height Caption Small"
-      }
-    },
-    "UnderLine": {
-      "value": "underline",
-      "type": "textDecoration",
-      "description": "Font Weight Underline"
-    },
-    "Regular": {
-      "value": "400",
-      "type": "fontWeights",
-      "description": "Font Weight Regular"
-    },
-    "Semibold": {
-      "value": "600",
-      "type": "fontWeights",
-      "description": "Font Weight Semibold"
-    },
-    "Bold": {
-      "value": "700",
-      "type": "fontWeights",
-      "description": "Font Weight Bold"
     }
   },
   "radius": {
@@ -545,10 +414,6 @@
         "value": "{tertiary.400}",
         "type": "color"
       }
-    },
-    "fontWeight": {
-      "value": "700",
-      "type": "fontWeights"
     }
   },
   "badge": {
@@ -863,28 +728,6 @@
       "value": "{body}",
       "type": "fontFamilies",
       "description": "test ganti label button\n"
-    },
-    "Size": {
-      "Large": {
-        "value": "{fsBody.Small}",
-        "type": "fontSizes",
-        "description": "Body Small"
-      },
-      "Medium": {
-        "value": "{fsCaption.Large}",
-        "type": "fontSizes",
-        "description": "Caption Large"
-      },
-      "Small": {
-        "value": "{fsHeading.Type 6}",
-        "type": "fontSizes",
-        "description": "Caption Small"
-      }
-    },
-    "SemiBold": {
-      "value": "{Semibold}",
-      "type": "fontWeights",
-      "description": "semibold"
     }
   },
   "checkbox": {
@@ -1033,21 +876,6 @@
         "value": "{primary.500}",
         "type": "color"
       }
-    },
-    "Large": {
-      "value": "{fsBody.Small}",
-      "type": "fontSizes",
-      "description": "placeholder font size\n"
-    },
-    "Medium": {
-      "value": "{fsCaption.Large}",
-      "type": "fontSizes",
-      "description": "Placeholder font size medium"
-    },
-    "Small": {
-      "value": "{fsCaption.Small}",
-      "type": "fontSizes",
-      "description": "Placeholder font size"
     }
   },
   "radio": {
