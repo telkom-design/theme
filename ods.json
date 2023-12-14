@@ -878,8 +878,9 @@
       }
     },
     "borderRadius": {
-      "value": "{3}",
-      "type": "borderRadius"
+      "value": "{5,5}",
+      "type": "borderRadius",
+      "description": "berubah border radius"
     },
     "defaultselect": {
       "color": {
