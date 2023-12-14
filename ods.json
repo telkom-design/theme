@@ -878,7 +878,7 @@
       }
     },
     "borderRadius": {
-      "value": "{5,5}",
+      "value": "{5}",
       "type": "borderRadius",
       "description": "berubah border radius"
     },
