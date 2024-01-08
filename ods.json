@@ -623,8 +623,9 @@
     "outline": {
       "default": {
         "backgroundColor": {
-          "value": "{primary.50}",
-          "type": "color"
+          "value": "{base.white}",
+          "type": "color",
+          "description": "update"
         },
         "color": {
           "value": "{primary.500}",
