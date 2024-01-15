@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Theme Generator</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+    form {
+      max-width: 700px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+    label,
+    textarea {
+      display: block;
+      width: 100%;
+      padding: 12px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <form>
+    <label for="theme">
+      Select Theme
+      <select name="theme" id="theme">
+        <option>Select theme</option>
+        <option value="agr">AGR</option>
+        <option value="bbx">BBX</option>
+        <option value="bpm">BPM</option>
+        <option value="fab">FAB</option>
+        <option value="gtp">GTP</option>
+        <option value="int">INT</option>
+        <option value="lgt">LGT</option>
+        <option value="mcr">MCR</option>
+        <option value="mtn">MTN</option>
+        <option value="ods">ODS</option>
+        <option value="oss">OSS</option>
+        <option value="pas">PAS</option>
+        <option value="pdm">PDM</option>
+        <option value="pjs">PJS</option>
+        <option value="pjs2">PJS2</option>
+        <option value="tci">TCI</option>
+        <option value="tkp">TKP</option>
+      </select>
+    </label>
+    <textarea id="json" name="json" rows="30" cols="30"></textarea>
+  </form>
+  
+  <script>
+    const mergeJSON = (obj = {}, prefix = '') => {
+      const result = {}
+
+      for (const key in obj) {
+        const newPrefix = prefix
+          ? prefix === 'colors'
+            ? key
+            : `${prefix}${key.charAt(0).toUpperCase() + key.slice(1)}`
+          : key
+        const removeSuffixValue = newPrefix.replace('Value', '')
+        if (typeof obj[key] === 'object') {
+          const nested = mergeJSON(obj[key], removeSuffixValue)
+          Object.assign(result, nested)
+        } else {
+          if (key === 'value') {
+            const value = obj[key].replace(/{|}|-|\./g, '').toLowerCase()
+            result[removeSuffixValue] = value
+          }
+        }
+      }
+
+      return result
+    }
+
+    const createTokensWithJSON = (json) => {
+      const tokens = mergeJSON(json)
+      // change baseWhite to be basewhite
+      tokens['basewhite'] = tokens['baseWhite']
+      delete tokens['baseWhite']
+      // change baseBlack to be baseblack
+      tokens['baseBlack'] = tokens['baseblack']
+      delete tokens['baseBlack']
+
+      for (const key in tokens) {
+        if (tokens[key] in tokens) {
+          tokens[key] = tokens[tokens[key]]
+        }
+      }
+
+      return tokens
+    }
+
+    const select = document.querySelector('#theme')
+    const result = document.querySelector('#json')
+
+    select.addEventListener('change', (e) => {
+      const theme = e.target.value
+      const url = `./${theme}.json`
+      fetch(url)
+        .then(response => response.json())
+        .then(json => {
+          const tokens = createTokensWithJSON(json)
+          const prefix = '--'
+          const tokensBaru = Object.entries(tokens).map(([key, value]) => {
+            return `${prefix}${key}: ${value};`
+          })
+          const stringJson = JSON.stringify(tokensBaru, null, 2).replace(/[, | "]/g, '')
+          const modifiedJson = ':root {' + stringJson.replace(/[\[\]]/g, '') + '}'
+          result.value = modifiedJson
+        })
+    })
+
+  </script>
+</body>
+</html>
