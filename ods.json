@@ -858,7 +858,7 @@
       }
     },
     "borderRadius": {
-      "value": "{5}",
+      "value": "12",
       "type": "borderRadius"
     },
     "defaultselect": {
