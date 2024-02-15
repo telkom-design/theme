@@ -911,7 +911,7 @@
     },
     "activedisable": {
       "backgroundColor": {
-        "value": "{base.white}",
+        "value": "{primary.300}",
         "type": "color"
       },
       "border": {
