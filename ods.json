@@ -901,7 +901,7 @@
     },
     "active": {
       "backgroundColor": {
-        "value": "{base.white}",
+        "value": "{primary.500}",
         "type": "color"
       },
       "border": {
