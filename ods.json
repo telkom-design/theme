@@ -486,7 +486,7 @@
     "solid": {
       "default": {
         "backgroundColor": {
-          "value": "{warning.500}",
+          "value": "{primary.500}",
           "type": "color"
         },
         "color": {
