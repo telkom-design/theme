@@ -486,9 +486,8 @@
     "solid": {
       "default": {
         "backgroundColor": {
-          "value": "{primary.500}",
-          "type": "color",
-          "description": "dikembalikan lagi ke primary"
+          "value": "{warning.500}",
+          "type": "color"
         },
         "color": {
           "value": "{base.white}",
