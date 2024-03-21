@@ -564,7 +564,7 @@
     "solid": {
       "default": {
         "backgroundColor": {
-          "value": "{primary.600}",
+          "value": "{primary.500}",
           "type": "color"
         },
         "color": {
@@ -1033,11 +1033,11 @@
     },
     "active": {
       "backgroundColor": {
-        "value": "{primary.500}",
+        "value": "{base.white}",
         "type": "color"
       },
       "Color": {
-        "value": "{base.white}",
+        "value": "{primary.500}",
         "type": "color"
       }
     }
