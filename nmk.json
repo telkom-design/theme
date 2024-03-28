@@ -727,17 +727,17 @@
     "outline": {
       "default": {
         "backgroundColor": {
-          "value": "{primary.50}",
+          "value": "{base.white}",
           "type": "color"
         },
         "color": {
-          "value": "{primary.500}",
+          "value": "{tertiary.900}",
           "type": "color"
         }
       },
       "hover": {
         "backgroundColor": {
-          "value": "{primary.200}",
+          "value": "{tertiary.25}",
           "type": "color"
         },
         "color": {
