@@ -906,51 +906,51 @@
         "type": "color"
       },
       "placeholderColor": {
-        "value": "{tertiary.500}",
+        "value": "{tertiary.300}",
         "type": "color"
       },
       "labelColor": {
-        "value": "{tertiary.800}",
+        "value": "{tertiary.900}",
         "type": "color"
       }
     },
     "active": {
       "outlineColor": {
-        "value": "{primary.500}",
+        "value": "{secondary.900}",
         "type": "color"
       },
       "placeholderColor": {
-        "value": "{tertiary.800}",
+        "value": "{tertiary.900}",
         "type": "color"
       },
       "borderColor": {
-        "value": "{primary.100}",
+        "value": "{secondary.200}",
         "type": "color"
       }
     },
     "error": {
       "outlineColor": {
-        "value": "{error.500}",
+        "value": "{error.900}",
         "type": "color"
       }
     },
     "success": {
       "outlineColor": {
-        "value": "{success.500}",
+        "value": "{success.900}",
         "type": "color"
       }
     },
     "disable": {
       "backgroundColor": {
-        "value": "{tertiary.100}",
+        "value": "{tertiary.25}",
         "type": "color"
       },
       "outlineColor": {
-        "value": "{tertiary.300}",
+        "value": "{tertiary.25}",
         "type": "color"
       },
       "placeholderColor": {
-        "value": "{tertiary.400}",
+        "value": "{tertiary.500}",
         "type": "color"
       }
     },
@@ -960,12 +960,12 @@
         "type": "color"
       },
       "textColor": {
-        "value": "{tertiary.800}",
+        "value": "{tertiary.900}",
         "type": "color"
       }
     },
     "borderRadius": {
-      "value": "{6}",
+      "value": "{4}",
       "type": "borderRadius"
     },
     "defaultselect": {
