@@ -970,17 +970,17 @@
     },
     "defaultselect": {
       "color": {
-        "value": "{tertiary.600}",
+        "value": "{tertiary.900}",
         "type": "color"
       }
     },
     "activeselect": {
       "backgroundColor": {
-        "value": "{primary.50}",
+        "value": "{base.white}",
         "type": "color"
       },
       "color": {
-        "value": "{primary.500}",
+        "value": "{secondary.900}",
         "type": "color"
       }
     }
