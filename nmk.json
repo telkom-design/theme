@@ -1056,35 +1056,35 @@
   "sidebar": {
     "default": {
       "Color": {
-        "value": "{secondary.700}",
-        "type": "color"
-      },
-      "backgroundColor": {
         "value": "{base.white}",
         "type": "color"
       },
+      "backgroundColor": {
+        "value": "{primary.900}",
+        "type": "color"
+      },
       "iconColor": {
-        "value": "{tertiary.400}",
+        "value": "{base.white}",
         "type": "color"
       }
     },
     "hover": {
       "backgroundColor": {
-        "value": "{primary.100}",
+        "value": "{primary.600}",
         "type": "color"
       },
       "Color": {
-        "value": "{secondary.700}",
+        "value": "{base.white}",
         "type": "color"
       }
     },
     "active": {
       "backgroundColor": {
-        "value": "{base.white}",
+        "value": "{primary.900}",
         "type": "color"
       },
       "Color": {
-        "value": "{primary.500}",
+        "value": "{base.white}",
         "type": "color"
       }
     }
