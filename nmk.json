@@ -1056,7 +1056,7 @@
   "sidebar": {
     "default": {
       "Color": {
-        "value": "{base.white}",
+        "value": "{primary.600}",
         "type": "color"
       },
       "backgroundColor": {
@@ -1070,7 +1070,7 @@
     },
     "hover": {
       "backgroundColor": {
-        "value": "{primary.600}",
+        "value": "{primary.700}",
         "type": "color"
       },
       "Color": {
