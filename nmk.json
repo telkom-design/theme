@@ -536,7 +536,7 @@
     },
     "disable": {
       "color": {
-        "value": "{tertiary.400}",
+        "value": "{tertiary.700}",
         "type": "color"
       }
     }
@@ -1092,29 +1092,29 @@
   "alert": {
     "information": {
       "titleColor": {
-        "value": "{information.700}",
+        "value": "{base.white}",
         "type": "color"
       },
       "descColor": {
-        "value": "{information.700}",
+        "value": "{tertiary.100}",
         "type": "color"
       },
       "backgroundColor": {
-        "value": "{information.25}",
+        "value": "{tertiary.900}",
         "type": "color"
       },
       "color": {
-        "value": "{information.500}",
+        "value": "{base.white}",
         "type": "color"
       }
     },
     "error": {
       "titleColor": {
-        "value": "{error.700}",
+        "value": "{tertiary.900}",
         "type": "color"
       },
       "descColor": {
-        "value": "{error.700}",
+        "value": "{tertiary.700}",
         "type": "color"
       },
       "backgroundColor": {
@@ -1122,17 +1122,17 @@
         "type": "color"
       },
       "color": {
-        "value": "{error.500}",
+        "value": "{error.900}",
         "type": "color"
       }
     },
     "warning": {
       "titleColor": {
-        "value": "{warning.700}",
+        "value": "{tertiary.900}",
         "type": "color"
       },
       "descColor": {
-        "value": "{warning.700}",
+        "value": "{tertiary.700}",
         "type": "color"
       },
       "backgroundColor": {
@@ -1140,17 +1140,17 @@
         "type": "color"
       },
       "color": {
-        "value": "{warning.500}",
+        "value": "{warning.900}",
         "type": "color"
       }
     },
     "success": {
       "titleColor": {
-        "value": "{success.700}",
+        "value": "{tertiary.900}",
         "type": "color"
       },
       "descColor": {
-        "value": "{success.700}",
+        "value": "{tertiary.700}",
         "type": "color"
       },
       "backgroundColor": {
@@ -1158,7 +1158,7 @@
         "type": "color"
       },
       "color": {
-        "value": "{success.500}",
+        "value": "{success.900}",
         "type": "color"
       }
     }
