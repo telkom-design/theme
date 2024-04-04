@@ -518,7 +518,7 @@
     },
     "hover": {
       "color": {
-        "value": "{primary.600}",
+        "value": "{secondary.900}",
         "type": "color"
       }
     },
