@@ -544,7 +544,7 @@
   "badge": {
     "primary": {
       "backgroundColor": {
-        "value": "{primary.900}",
+        "value": "{error.900}",
         "type": "color"
       },
       "Color": {
@@ -554,11 +554,11 @@
     },
     "secondary": {
       "backgroundColor": {
-        "value": "{secondary.50}",
+        "value": "{secondary.900}",
         "type": "color"
       },
       "Color": {
-        "value": "{secondary.900}",
+        "value": "{base.white}",
         "type": "color"
       }
     },
