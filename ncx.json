@@ -1652,7 +1652,7 @@
     "solid": {
       "default": {
         "backgroundColor": {
-          "value": "{secondary.500}",
+          "value": "{primary.500}",
           "type": "color"
         },
         "color": {
@@ -1662,7 +1662,7 @@
       },
       "hover": {
         "backgroundColor": {
-          "value": "{secondary.600}",
+          "value": "{primary.600}",
           "type": "color"
         },
         "color": {
@@ -1672,7 +1672,7 @@
       },
       "active": {
         "backgroundColor": {
-          "value": "{secondary.700}",
+          "value": "{primary.700}",
           "type": "color"
         },
         "color": {
@@ -1682,7 +1682,7 @@
       },
       "focus": {
         "backgroundColors": {
-          "value": "{secondary.500}",
+          "value": "{primary.500}",
           "type": "color"
         },
         "color": {
@@ -1690,7 +1690,7 @@
           "type": "color"
         },
         "borderColors": {
-          "value": "{secondary.400}",
+          "value": "{primary.400}",
           "type": "color"
         }
       },
@@ -3269,6 +3269,10 @@
         "value": "0px",
         "type": "dimension"
       }
+    },
+    "Lexend": {
+      "value": "{fontFamilies.lexend}",
+      "type": "fontFamilies"
     }
   },
   "checkbox": {
