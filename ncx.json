@@ -1500,11 +1500,11 @@
   },
   "typography": {
     "heading": {
-      "value": "\"M PLUS Rounded 1c\"",
+      "value": "{fontFamilies.lexend}",
       "type": "fontFamilies"
     },
     "body": {
-      "value": "\"M PLUS Rounded 1c\"",
+      "value": "{fontFamilies.lexend}",
       "type": "fontFamilies"
     },
     "primary": {
