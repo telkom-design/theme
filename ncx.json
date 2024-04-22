@@ -1708,45 +1708,45 @@
     "soft": {
       "default": {
         "backgroundColor": {
-          "value": "{secondary.50}",
+          "value": "{primary.50}",
           "type": "color"
         },
         "color": {
-          "value": "{secondary.500}",
+          "value": "{primary.500}",
           "type": "color"
         }
       },
       "hover": {
         "backgroundColor": {
-          "value": "{secondary.200}",
+          "value": "{primary.200}",
           "type": "color"
         },
         "color": {
-          "value": "{secondary.600}",
+          "value": "{primary.600}",
           "type": "color"
         }
       },
       "active": {
         "backgroundColor": {
-          "value": "{secondary.300}",
+          "value": "{primary.300}",
           "type": "color"
         },
         "color": {
-          "value": "{secondary.700}",
+          "value": "{primary.700}",
           "type": "color"
         }
       },
       "focus": {
         "backgroundColor": {
-          "value": "{secondary.50}",
+          "value": "{primary.50}",
           "type": "color"
         },
         "color": {
-          "value": "{secondary.500}",
+          "value": "{primary.500}",
           "type": "color"
         },
         "borderColors": {
-          "value": "{secondary.400}",
+          "value": "{primary.400}",
           "type": "color"
         }
       },
@@ -1762,7 +1762,7 @@
       }
     },
     "borderRadius": {
-      "value": "{6}",
+      "value": "{2}",
       "type": "borderRadius"
     },
     "outline": {
@@ -1772,39 +1772,39 @@
           "type": "color"
         },
         "color": {
-          "value": "{secondary.500}",
+          "value": "{primary.500}",
           "type": "color"
         },
         "borderColors": {
-          "value": "{secondary.500}",
+          "value": "{primary.500}",
           "type": "color"
         }
       },
       "hover": {
         "backgroundColor": {
-          "value": "{secondary.50}",
+          "value": "{primary.50}",
           "type": "color"
         },
         "color": {
-          "value": "{secondary.600}",
+          "value": "{primary.600}",
           "type": "color"
         },
         "borderColors": {
-          "value": "{secondary.600}",
+          "value": "{primary.600}",
           "type": "color"
         }
       },
       "active": {
         "backgroundColor": {
-          "value": "{secondary.100}",
+          "value": "{primary.100}",
           "type": "color"
         },
         "color": {
-          "value": "{secondary.700}",
+          "value": "{primary.700}",
           "type": "color"
         },
         "borderColors": {
-          "value": "{secondary.700}",
+          "value": "{primary.700}",
           "type": "color"
         }
       },
@@ -1814,11 +1814,11 @@
           "type": "color"
         },
         "color": {
-          "value": "{secondary.500}",
+          "value": "{primary.500}",
           "type": "color"
         },
         "borderColors": {
-          "value": "{secondary.400}",
+          "value": "{primary.400}",
           "type": "color"
         }
       },
@@ -1840,37 +1840,37 @@
     "transparent": {
       "default": {
         "color": {
-          "value": "{secondary.500}",
+          "value": "{primary.500}",
           "type": "color"
         }
       },
       "hover": {
         "backgroundColor": {
-          "value": "{secondary.50}",
+          "value": "{primary.50}",
           "type": "color"
         },
         "color": {
-          "value": "{secondary.600}",
+          "value": "{primary.600}",
           "type": "color"
         }
       },
       "active": {
         "backgroundColor": {
-          "value": "{secondary.100}",
+          "value": "{primary.100}",
           "type": "color"
         },
         "color": {
-          "value": "{secondary.700}",
+          "value": "{primary.700}",
           "type": "color"
         }
       },
       "focus": {
         "color": {
-          "value": "{secondary.500}",
+          "value": "{primary.500}",
           "type": "color"
         },
         "borderColors": {
-          "value": "{secondary.400}",
+          "value": "{primary.400}",
           "type": "color"
         }
       },
