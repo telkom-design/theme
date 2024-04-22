@@ -1500,11 +1500,11 @@
   },
   "typography": {
     "heading": {
-      "value": "{fontFamilies.lexend}",
+      "value": "Lexend",
       "type": "fontFamilies"
     },
     "body": {
-      "value": "{fontFamilies.lexend}",
+      "value": "Lexend",
       "type": "fontFamilies"
     },
     "primary": {
