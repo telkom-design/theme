@@ -3403,7 +3403,7 @@
       }
     },
     "borderRadius": {
-      "value": "{6}",
+      "value": "{2}",
       "type": "borderRadius"
     },
     "defaultselect": {
