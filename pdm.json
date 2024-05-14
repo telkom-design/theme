@@ -800,7 +800,7 @@
     "transparent": {
       "default": {
         "backgroundColor": {
-          "value": "{background.Primary}",
+          "value": "{base.white}",
           "type": "color"
         },
         "color": {
@@ -830,7 +830,7 @@
       },
       "focus": {
         "backgroundColor": {
-          "value": "{background.Primary}",
+          "value": "{base.white}",
           "type": "color"
         },
         "color": {
