@@ -627,7 +627,7 @@
           "type": "color"
         },
         "borderColor": {
-          "value": "{primary.200}",
+          "value": "{base.white}",
           "type": "color"
         }
       },
