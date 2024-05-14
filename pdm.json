@@ -923,7 +923,7 @@
         "type": "color"
       },
       "outlineColor": {
-        "value": "{tertiary.300}",
+        "value": "{border.Dark}",
         "type": "color"
       },
       "iconColor": {
