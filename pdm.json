@@ -800,7 +800,7 @@
     "transparent": {
       "default": {
         "backgroundColor": {
-          "value": "{base.white}",
+          "value": "{background.Primary}",
           "type": "color"
         },
         "color": {
@@ -830,7 +830,7 @@
       },
       "focus": {
         "backgroundColor": {
-          "value": "{base.white}",
+          "value": "{background.Primary}",
           "type": "color"
         },
         "color": {
@@ -927,11 +927,11 @@
         "type": "color"
       },
       "iconColor": {
-        "value": "{tertiary.800}",
+        "value": "{text.Primary}",
         "type": "color"
       },
       "placeholderColor": {
-        "value": "{tertiary.500}",
+        "value": "{text.Placeholder}",
         "type": "color"
       },
       "labelColor": {
