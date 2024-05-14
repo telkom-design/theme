@@ -800,7 +800,7 @@
     "transparent": {
       "default": {
         "backgroundColor": {
-          "value": "{primary.25}",
+          "value": "{background.Primary}",
           "type": "color"
         },
         "color": {
@@ -810,7 +810,7 @@
       },
       "hover": {
         "backgroundColor": {
-          "value": "{primary.100}",
+          "value": "{primary.50}",
           "type": "color"
         },
         "color": {
@@ -820,7 +820,7 @@
       },
       "active": {
         "backgroundColor": {
-          "value": "{primary.300}",
+          "value": "{primary.100}",
           "type": "color"
         },
         "color": {
@@ -830,7 +830,7 @@
       },
       "focus": {
         "backgroundColor": {
-          "value": "{primary.50}",
+          "value": "{background.Primary}",
           "type": "color"
         },
         "color": {
