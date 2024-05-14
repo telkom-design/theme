@@ -945,7 +945,7 @@
         "type": "color"
       },
       "placeholderColor": {
-        "value": "{tertiary.800}",
+        "value": "{default.placeholderColor}",
         "type": "color"
       },
       "borderColor": {
@@ -981,11 +981,11 @@
     },
     "prefixsufix": {
       "lineColor": {
-        "value": "{tertiary.300}",
+        "value": "{border.Dark}",
         "type": "color"
       },
       "textColor": {
-        "value": "{tertiary.800}",
+        "value": "{text.Primary}",
         "type": "color"
       }
     },
