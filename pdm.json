@@ -800,7 +800,7 @@
     "transparent": {
       "default": {
         "backgroundColor": {
-          "value": "{primary.50}",
+          "value": "{primary.25}",
           "type": "color"
         },
         "color": {
@@ -810,7 +810,7 @@
       },
       "hover": {
         "backgroundColor": {
-          "value": "{primary.200}",
+          "value": "{primary.100}",
           "type": "color"
         },
         "color": {
@@ -935,7 +935,7 @@
         "type": "color"
       },
       "labelColor": {
-        "value": "{tertiary.800}",
+        "value": "{tertiary.500}",
         "type": "color"
       }
     },
