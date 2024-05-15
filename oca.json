@@ -466,11 +466,11 @@
   },
   "typography": {
     "heading": {
-      "value": "Open Sans",
+      "value": "Inter",
       "type": "fontFamilies"
     },
     "body": {
-      "value": "Open Sans",
+      "value": "Poppins",
       "type": "fontFamilies"
     }
   },
