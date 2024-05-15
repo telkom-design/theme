@@ -420,52 +420,6 @@
         "type": "color",
         "oldValue": "#000000"
       }
-    },
-    "white": {
-      "25": {
-        "value": "#ffffff0d",
-        "type": "color"
-      },
-      "50": {
-        "value": "#ffffff1a",
-        "type": "color"
-      },
-      "100": {
-        "value": "#ffffff33",
-        "type": "color"
-      },
-      "200": {
-        "value": "#ffffff4d",
-        "type": "color"
-      },
-      "300": {
-        "value": "#ffffff66",
-        "type": "color"
-      },
-      "400": {
-        "value": "#ffffff80",
-        "type": "color"
-      },
-      "500": {
-        "value": "#ffffff99",
-        "type": "color"
-      },
-      "600": {
-        "value": "#ffffffb3",
-        "type": "color"
-      },
-      "700": {
-        "value": "#ffffffcc",
-        "type": "color"
-      },
-      "800": {
-        "value": "#ffffffe6",
-        "type": "color"
-      },
-      "900": {
-        "value": "#ffffff",
-        "type": "color"
-      }
     }
   },
   "typography": {
