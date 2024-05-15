@@ -720,7 +720,7 @@
       }
     },
     "borderRadius": {
-      "value": "{5}",
+      "value": "{1}",
       "type": "borderRadius"
     },
     "outline": {
@@ -886,7 +886,7 @@
       }
     },
     "borderRadius": {
-      "value": "{4}",
+      "value": "{1}",
       "type": "borderRadius"
     }
   },
@@ -964,7 +964,7 @@
       }
     },
     "borderRadius": {
-      "value": "{4}",
+      "value": "{1}",
       "type": "borderRadius"
     },
     "defaultselect": {
@@ -1055,11 +1055,11 @@
   "sidebar": {
     "default": {
       "Color": {
-        "value": "{primary.300}",
+        "value": "{tertiary.800}",
         "type": "color"
       },
       "backgroundColor": {
-        "value": "{primary.900}",
+        "value": "{base.white}",
         "type": "color"
       },
       "iconColor": {
@@ -1069,17 +1069,17 @@
     },
     "hover": {
       "backgroundColor": {
-        "value": "{primary.700}",
+        "value": "{primary.100}",
         "type": "color"
       },
       "Color": {
-        "value": "{base.white}",
+        "value": "{primary.500}",
         "type": "color"
       }
     },
     "active": {
       "backgroundColor": {
-        "value": "{primary.900}",
+        "value": "{primary.600}",
         "type": "color"
       },
       "Color": {
