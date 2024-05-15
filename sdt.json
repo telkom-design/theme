@@ -470,11 +470,11 @@
   },
   "typography": {
     "heading": {
-      "value": "Open Sans",
+      "value": "Poppins",
       "type": "fontFamilies"
     },
     "body": {
-      "value": "Open Sans",
+      "value": "Poppins",
       "type": "fontFamilies"
     }
   },
@@ -601,7 +601,7 @@
         "type": "color"
       },
       "Color": {
-        "value": "{warning.900}",
+        "value": "{warning.500}",
         "type": "color"
       }
     },
@@ -614,7 +614,7 @@
     "solid": {
       "default": {
         "backgroundColor": {
-          "value": "{primary.900}",
+          "value": "{primary.500}",
           "type": "color"
         },
         "color": {
@@ -624,7 +624,7 @@
       },
       "hover": {
         "backgroundColor": {
-          "value": "{primary.600}",
+          "value": "{secondary.600}",
           "type": "color"
         },
         "color": {
@@ -652,7 +652,7 @@
           "type": "color"
         },
         "borderColors": {
-          "value": "{secondary.200}",
+          "value": "{primary.900}",
           "type": "color"
         }
       },
@@ -724,7 +724,7 @@
       }
     },
     "borderRadius": {
-      "value": "{5}",
+      "value": "{7}",
       "type": "borderRadius"
     },
     "outline": {
