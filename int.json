@@ -751,7 +751,7 @@
         "type": "color"
       },
       "border": {
-        "value": "{primary.500}",
+        "value": "{primary.100}",
         "type": "color"
       }
     },
@@ -770,7 +770,7 @@
       }
     },
     "borderRadius": {
-      "value": "{6}",
+      "value": "{2}",
       "type": "borderRadius"
     }
   },
@@ -789,7 +789,7 @@
         "type": "color"
       },
       "placeholderColor": {
-        "value": "{tertiary.500}",
+        "value": "{tertiary.400}",
         "type": "color"
       },
       "labelColor": {
@@ -799,7 +799,7 @@
     },
     "active": {
       "outlineColor": {
-        "value": "{primary.500}",
+        "value": "{primary.400}",
         "type": "color"
       },
       "placeholderColor": {
@@ -807,7 +807,7 @@
         "type": "color"
       },
       "borderColor": {
-        "value": "{primary.100}",
+        "value": "#E9FAFA",
         "type": "color"
       }
     },
@@ -839,7 +839,7 @@
     },
     "prefixsufix": {
       "lineColor": {
-        "value": "{tertiary.300}",
+        "value": "{tertiary.200}",
         "type": "color"
       },
       "textColor": {
@@ -919,13 +919,13 @@
     },
     "activedisable": {
       "backgroundColor": {
-        "value": "{success.100}",
+        "value": "{success.200}",
         "type": "color"
       }
     },
     "nonactive": {
       "backgroundColor": {
-        "value": "{tertiary.400}",
+        "value": "{tertiary.300}",
         "type": "color"
       }
     },
@@ -975,11 +975,11 @@
   "alert": {
     "information": {
       "titleColor": {
-        "value": "{information.700}",
+        "value": "{base.black}",
         "type": "color"
       },
       "descColor": {
-        "value": "{information.700}",
+        "value": "{tertiary.500}",
         "type": "color"
       },
       "backgroundColor": {
@@ -993,11 +993,11 @@
     },
     "error": {
       "titleColor": {
-        "value": "{error.700}",
+        "value": "{base.black}",
         "type": "color"
       },
       "descColor": {
-        "value": "{error.700}",
+        "value": "{tertiary.500}",
         "type": "color"
       },
       "backgroundColor": {
@@ -1011,11 +1011,11 @@
     },
     "warning": {
       "titleColor": {
-        "value": "{warning.700}",
+        "value": "{base.black}",
         "type": "color"
       },
       "descColor": {
-        "value": "{warning.700}",
+        "value": "{tertiary.500}",
         "type": "color"
       },
       "backgroundColor": {
@@ -1029,11 +1029,11 @@
     },
     "success": {
       "titleColor": {
-        "value": "{success.700}",
+        "value": "{base.black}",
         "type": "color"
       },
       "descColor": {
-        "value": "{success.700}",
+        "value": "{tertiary.500}",
         "type": "color"
       },
       "backgroundColor": {
