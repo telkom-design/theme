@@ -350,11 +350,11 @@
   },
   "typography": {
     "heading": {
-      "value": "Nunito Sans",
+      "value": "Lato",
       "type": "fontFamilies"
     },
     "body": {
-      "value": "Nunito Sans",
+      "value": "Lato",
       "type": "fontFamilies"
     }
   },
