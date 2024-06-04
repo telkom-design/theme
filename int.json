@@ -2,7 +2,7 @@
   "colors": {
     "primary": {
       "25": {
-        "value": "#cbf6f3",
+        "value": "#E8F3F2",
         "type": "color"
       },
       "50": {
@@ -554,7 +554,7 @@
     "soft": {
       "default": {
         "backgroundColor": {
-          "value": "{primary.50}",
+          "value": "{primary.25}",
           "type": "color"
         },
         "color": {
