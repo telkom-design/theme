@@ -620,7 +620,7 @@
       },
       "hover": {
         "backgroundColor": {
-          "value": "{secondary.500}",
+          "value": "{success.500}",
           "type": "color"
         },
         "color": {
