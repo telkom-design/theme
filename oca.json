@@ -33,10 +33,10 @@
         "oldValue": "#89a3c0"
       },
       "500": {
-        "description": "CTA Background / Text Label",
-        "value": "#ff5600",
+        "value": "#E81255",
         "type": "color",
-        "oldValue": "#7191b3"
+        "oldValue": "#7191b3",
+        "description": "CTA Background / Text Label"
       },
       "600": {
         "value": "#e64d00",
@@ -720,7 +720,7 @@
       }
     },
     "borderRadius": {
-      "value": "{5}",
+      "value": "{8}",
       "type": "borderRadius"
     },
     "outline": {
@@ -1029,7 +1029,7 @@
   "switch": {
     "active": {
       "backgroundColor": {
-        "value": "{secondary.900}",
+        "value": "{success.500}",
         "type": "color"
       }
     },
