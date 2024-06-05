@@ -720,7 +720,7 @@
       }
     },
     "borderRadius": {
-      "value": "{1}",
+      "value": "{5}",
       "type": "borderRadius"
     },
     "outline": {
