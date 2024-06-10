@@ -610,7 +610,7 @@
     "solid": {
       "default": {
         "backgroundColor": {
-          "value": "{secondary.800}",
+          "value": "{primary.600}",
           "type": "color"
         },
         "color": {
