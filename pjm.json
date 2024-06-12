@@ -510,11 +510,11 @@
   },
   "typography": {
     "heading": {
-      "value": "Lato",
+      "value": "Inter",
       "type": "fontFamilies"
     },
     "body": {
-      "value": "Lato",
+      "value": "Inter",
       "type": "fontFamilies"
     }
   },
