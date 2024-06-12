@@ -668,7 +668,7 @@
       },
       "hover": {
         "backgroundColor": {
-          "value": "{primary.600}",
+          "value": "{secondary.500}",
           "type": "color"
         },
         "color": {
@@ -768,7 +768,7 @@
       }
     },
     "borderRadius": {
-      "value": "{2}",
+      "value": "{4}",
       "type": "borderRadius"
     },
     "outline": {
