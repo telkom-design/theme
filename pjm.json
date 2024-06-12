@@ -668,7 +668,7 @@
       },
       "hover": {
         "backgroundColor": {
-          "value": "{secondary.500}",
+          "value": "{primary.600}",
           "type": "color"
         },
         "color": {
