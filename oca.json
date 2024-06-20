@@ -462,6 +462,12 @@
         "value": "#ffffff",
         "type": "color"
       }
+    },
+    "accent": {
+      "25": {
+        "value": "#FAF6FE",
+        "type": "color"
+      }
     }
   },
   "typography": {
