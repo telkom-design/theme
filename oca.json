@@ -2,33 +2,33 @@
   "colors": {
     "primary": {
       "25": {
-        "description": "Background",
-        "value": "#fff7f3",
+        "value": "#FEF6F8",
         "type": "color",
-        "oldValue": "#f3f6f9"
+        "oldValue": "#f3f6f9",
+        "description": "Background"
       },
       "50": {
-        "value": "#ffeee6",
+        "value": "#FDE3EB",
         "type": "color",
         "oldValue": "#e7edf2"
       },
       "100": {
-        "value": "#ffbb99",
+        "value": "#FACCDB",
         "type": "color",
         "oldValue": "#d0dae6"
       },
       "200": {
-        "value": "#ff9a66",
+        "value": "#F69DB9",
         "type": "color",
         "oldValue": "#b8c8d9"
       },
       "300": {
-        "value": "#ff8040",
+        "value": "#F16F98",
         "type": "color",
         "oldValue": "#a1b5cc"
       },
       "400": {
-        "value": "#ff6f26",
+        "value": "#ED4076",
         "type": "color",
         "oldValue": "#89a3c0"
       },
@@ -39,22 +39,22 @@
         "description": "CTA Background / Text Label"
       },
       "600": {
-        "value": "#e64d00",
+        "value": "#BA0E44",
         "type": "color",
         "oldValue": "#5a7ea6"
       },
       "700": {
-        "value": "#cc4500",
+        "value": "#8B0B33",
         "type": "color",
         "oldValue": "#426c99"
       },
       "800": {
-        "value": "#a63800",
+        "value": "#5D0722",
         "type": "color",
         "oldValue": "#2b598d"
       },
       "900": {
-        "value": "#802b00",
+        "value": "#2E0411",
         "type": "color",
         "oldValue": "#134780"
       }
@@ -610,7 +610,7 @@
     "solid": {
       "default": {
         "backgroundColor": {
-          "value": "{primary.600}",
+          "value": "{primary.500}",
           "type": "color"
         },
         "color": {
