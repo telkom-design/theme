@@ -678,7 +678,7 @@
       }
     },
     "borderRadius": {
-      "value": "{7}",
+      "value": "{5}",
       "type": "borderRadius"
     },
     "outline": {
