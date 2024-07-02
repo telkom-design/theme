@@ -578,7 +578,7 @@
       },
       "hover": {
         "backgroundColor": {
-          "value": "{primary.600}",
+          "value": "{primary.400}",
           "type": "color"
         },
         "color": {
@@ -598,7 +598,7 @@
       },
       "focus": {
         "backgroundColors": {
-          "value": "{primary.500}",
+          "value": "{primary.400}",
           "type": "color"
         },
         "color": {
@@ -634,17 +634,17 @@
       },
       "hover": {
         "backgroundColor": {
-          "value": "{primary.200}",
+          "value": "{primary.25}",
           "type": "color"
         },
         "color": {
-          "value": "{primary.600}",
+          "value": "{primary.400}",
           "type": "color"
         }
       },
       "active": {
         "backgroundColor": {
-          "value": "{primary.300}",
+          "value": "{primary.400}",
           "type": "color"
         },
         "color": {
@@ -654,25 +654,25 @@
       },
       "focus": {
         "backgroundColor": {
-          "value": "{primary.50}",
+          "value": "{primary.25}",
           "type": "color"
         },
         "color": {
-          "value": "{primary.500}",
+          "value": "{primary.400}",
           "type": "color"
         },
         "borderColors": {
-          "value": "{primary.400}",
+          "value": "{primary.300}",
           "type": "color"
         }
       },
       "disabled": {
         "backgroundColor": {
-          "value": "{tertiary.200}",
+          "value": "{tertiary.50}",
           "type": "color"
         },
         "color": {
-          "value": "{tertiary.500}",
+          "value": "{tertiary.600}",
           "type": "color"
         }
       }
