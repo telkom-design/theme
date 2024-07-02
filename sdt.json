@@ -688,7 +688,7 @@
           "type": "color"
         },
         "color": {
-          "value": "{tertiary.900}",
+          "value": "{primary.500}",
           "type": "color"
         }
       },
@@ -698,7 +698,7 @@
           "type": "color"
         },
         "color": {
-          "value": "{tertiary.900}",
+          "value": "{primary.600}",
           "type": "color"
         }
       },
@@ -708,7 +708,7 @@
           "type": "color"
         },
         "color": {
-          "value": "{tertiary.900}",
+          "value": "{primary.700}",
           "type": "color"
         }
       },
@@ -718,11 +718,11 @@
           "type": "color"
         },
         "color": {
-          "value": "{tertiary.900}",
+          "value": "{primary.500}",
           "type": "color"
         },
         "borderColors": {
-          "value": "{secondary.200}",
+          "value": "{primary.400}",
           "type": "color"
         }
       },
