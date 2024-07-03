@@ -1037,7 +1037,7 @@
     },
     "active": {
       "backgroundColor": {
-        "value": "{secondary.50}",
+        "value": "{primary.25}",
         "type": "color"
       },
       "Color": {
