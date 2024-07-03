@@ -1013,7 +1013,7 @@
   "sidebar": {
     "default": {
       "Color": {
-        "value": "{primary.500}",
+        "value": "{tertiary.900}",
         "type": "color"
       },
       "backgroundColor": {
@@ -1021,7 +1021,7 @@
         "type": "color"
       },
       "iconColor": {
-        "value": "{primary.500}",
+        "value": "{tertiary.900}",
         "type": "color"
       }
     },
@@ -1041,7 +1041,7 @@
         "type": "color"
       },
       "Color": {
-        "value": "{secondary.700}",
+        "value": "{primary.500}",
         "type": "color"
       }
     }
