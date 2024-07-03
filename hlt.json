@@ -507,11 +507,11 @@
     },
     "secondary": {
       "backgroundColor": {
-        "value": "{primary.50}",
+        "value": "{secondary.100}",
         "type": "color"
       },
       "Color": {
-        "value": "{primary.600}",
+        "value": "{secondary.600}",
         "type": "color"
       }
     },
@@ -983,7 +983,7 @@
   "switch": {
     "active": {
       "backgroundColor": {
-        "value": "{secondary.500}",
+        "value": "{success.500}",
         "type": "color"
       }
     },
@@ -995,13 +995,13 @@
     },
     "nonactive": {
       "backgroundColor": {
-        "value": "{tertiary.400}",
+        "value": "{tertiary.100}",
         "type": "color"
       }
     },
     "nonactivedisable": {
       "backgroundColor": {
-        "value": "{tertiary.200}",
+        "value": "{tertiary.50}",
         "type": "color"
       }
     }
