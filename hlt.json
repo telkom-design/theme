@@ -895,15 +895,15 @@
     },
     "disable": {
       "backgroundColor": {
-        "value": "{tertiary.100}",
+        "value": "{tertiary.50}",
         "type": "color"
       },
       "outlineColor": {
-        "value": "{tertiary.300}",
+        "value": "{tertiary.50}",
         "type": "color"
       },
       "placeholderColor": {
-        "value": "{tertiary.400}",
+        "value": "{tertiary.300}",
         "type": "color"
       }
     },
@@ -913,7 +913,7 @@
         "type": "color"
       },
       "textColor": {
-        "value": "{tertiary.800}",
+        "value": "{tertiary.300}",
         "type": "color"
       }
     },
