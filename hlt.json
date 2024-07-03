@@ -664,11 +664,11 @@
       },
       "disabled": {
         "backgroundColor": {
-          "value": "{tertiary.200}",
+          "value": "{tertiary.50}",
           "type": "color"
         },
         "color": {
-          "value": "{tertiary.500}",
+          "value": "{tertiary.200}",
           "type": "color"
         }
       }
