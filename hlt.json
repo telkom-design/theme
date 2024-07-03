@@ -496,12 +496,12 @@
   },
   "badge": {
     "primary": {
-      "Color": {
-        "value": "{primary.600}",
-        "type": "color"
-      },
       "backgroundColor": {
         "value": "{primary.100}",
+        "type": "color"
+      },
+      "Color": {
+        "value": "{primary.600}",
         "type": "color"
       }
     },
