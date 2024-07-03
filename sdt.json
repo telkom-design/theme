@@ -644,7 +644,7 @@
       },
       "active": {
         "backgroundColor": {
-          "value": "{primary.400}",
+          "value": "{primary.50}",
           "type": "color"
         },
         "color": {
@@ -750,7 +750,7 @@
       },
       "hover": {
         "backgroundColor": {
-          "value": "{primary.200}",
+          "value": "{base.white}",
           "type": "color"
         },
         "color": {
@@ -760,7 +760,7 @@
       },
       "active": {
         "backgroundColor": {
-          "value": "{primary.300}",
+          "value": "{base.white}",
           "type": "color"
         },
         "color": {
@@ -774,11 +774,11 @@
           "type": "color"
         },
         "color": {
-          "value": "{primary.500}",
+          "value": "{primary.400}",
           "type": "color"
         },
         "borderColors": {
-          "value": "{primary.400}",
+          "value": "{primary.200}",
           "type": "color"
         }
       },
