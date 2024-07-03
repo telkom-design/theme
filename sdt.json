@@ -501,7 +501,7 @@
   "badge": {
     "primary": {
       "backgroundColor": {
-        "value": "{error.900}",
+        "value": "{primary.500}",
         "type": "color"
       },
       "Color": {
@@ -511,7 +511,7 @@
     },
     "secondary": {
       "backgroundColor": {
-        "value": "{secondary.900}",
+        "value": "{secondary.500}",
         "type": "color"
       },
       "Color": {
@@ -525,7 +525,7 @@
         "type": "color"
       },
       "Color": {
-        "value": "{error.900}",
+        "value": "{error.500}",
         "type": "color"
       }
     },
@@ -535,7 +535,7 @@
         "type": "color"
       },
       "Color": {
-        "value": "{information.600}",
+        "value": "{information.500}",
         "type": "color"
       }
     },
@@ -545,7 +545,7 @@
         "type": "color"
       },
       "Color": {
-        "value": "{success.900}",
+        "value": "{success.500}",
         "type": "color"
       }
     },
@@ -788,7 +788,7 @@
           "type": "color"
         },
         "color": {
-          "value": "{tertiary.500}",
+          "value": "{tertiary.600}",
           "type": "color"
         }
       }
@@ -949,17 +949,17 @@
         "type": "color"
       },
       "border": {
-        "value": "{tertiary.100}",
+        "value": "{tertiary.300}",
         "type": "color"
       }
     },
     "disable": {
       "backgroundColor": {
-        "value": "{tertiary.25}",
+        "value": "{tertiary.100}",
         "type": "color"
       },
       "border": {
-        "value": "{tertiary.100}",
+        "value": "{tertiary.300}",
         "type": "color"
       }
     },
@@ -969,7 +969,7 @@
         "type": "color"
       },
       "border": {
-        "value": "{secondary.900}",
+        "value": "{primary.500}",
         "type": "color"
       }
     },
@@ -979,7 +979,7 @@
         "type": "color"
       },
       "border": {
-        "value": "{secondary.100}",
+        "value": "{primary.100}",
         "type": "color"
       }
     }
@@ -987,19 +987,19 @@
   "switch": {
     "active": {
       "backgroundColor": {
-        "value": "{secondary.900}",
+        "value": "{success.500}",
         "type": "color"
       }
     },
     "activedisable": {
       "backgroundColor": {
-        "value": "{secondary.100}",
+        "value": "{success.100}",
         "type": "color"
       }
     },
     "nonactive": {
       "backgroundColor": {
-        "value": "{tertiary.300}",
+        "value": "{tertiary.400}",
         "type": "color"
       }
     },
@@ -1049,19 +1049,19 @@
   "alert": {
     "information": {
       "titleColor": {
-        "value": "{base.white}",
-        "type": "color"
-      },
-      "descColor": {
-        "value": "{tertiary.100}",
-        "type": "color"
-      },
-      "backgroundColor": {
         "value": "{tertiary.900}",
         "type": "color"
       },
+      "descColor": {
+        "value": "{tertiary.800}",
+        "type": "color"
+      },
+      "backgroundColor": {
+        "value": "{information.25}",
+        "type": "color"
+      },
       "color": {
-        "value": "{base.white}",
+        "value": "{information.500}",
         "type": "color"
       }
     },
@@ -1071,7 +1071,7 @@
         "type": "color"
       },
       "descColor": {
-        "value": "{tertiary.700}",
+        "value": "{tertiary.800}",
         "type": "color"
       },
       "backgroundColor": {
@@ -1079,7 +1079,7 @@
         "type": "color"
       },
       "color": {
-        "value": "{error.900}",
+        "value": "{error.500}",
         "type": "color"
       }
     },
@@ -1089,7 +1089,7 @@
         "type": "color"
       },
       "descColor": {
-        "value": "{tertiary.700}",
+        "value": "{tertiary.800}",
         "type": "color"
       },
       "backgroundColor": {
@@ -1097,7 +1097,7 @@
         "type": "color"
       },
       "color": {
-        "value": "{warning.900}",
+        "value": "{warning.500}",
         "type": "color"
       }
     },
@@ -1107,7 +1107,7 @@
         "type": "color"
       },
       "descColor": {
-        "value": "{tertiary.700}",
+        "value": "{tertiary.800}",
         "type": "color"
       },
       "backgroundColor": {
@@ -1115,7 +1115,7 @@
         "type": "color"
       },
       "color": {
-        "value": "{success.900}",
+        "value": "{success.500}",
         "type": "color"
       }
     }
