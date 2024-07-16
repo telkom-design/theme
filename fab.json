@@ -490,7 +490,7 @@
     "solid": {
       "default": {
         "backgroundColor": {
-          "value": "{primary.500}",
+          "value": "{secondary.500}",
           "type": "color"
         },
         "color": {
@@ -600,7 +600,7 @@
       }
     },
     "borderRadius": {
-      "value": "{6}",
+      "value": "{2}",
       "type": "borderRadius"
     },
     "outline": {
