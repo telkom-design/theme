@@ -2,57 +2,57 @@
   "colors": {
     "primary": {
       "25": {
-        "value": "#f6faff",
+        "value": "#F6FBFF",
         "type": "color",
         "oldValue": "#f5fafd"
       },
       "50": {
-        "value": "#deebf9",
+        "value": "#DEEAF5",
         "type": "color",
         "oldValue": "#f0fbff"
       },
       "100": {
-        "value": "#c7dbf3",
+        "value": "#C5D9EA",
         "type": "color",
         "oldValue": "#dcf1fa"
       },
       "200": {
-        "value": "#97bce7",
+        "value": "#94B7D6",
         "type": "color",
         "oldValue": "#abd8ed"
       },
       "300": {
-        "value": "#689ddc",
+        "value": "#6495C1",
         "type": "color",
         "oldValue": "#7ebee0"
       },
       "400": {
-        "value": "#387ed0",
+        "value": "#3373AD",
         "type": "color",
         "oldValue": "#55aed4"
       },
       "500": {
-        "value": "#095fc4",
+        "value": "#025198",
         "type": "color",
         "oldValue": "#3088c8"
       },
       "600": {
-        "value": "#074c9d",
+        "value": "#02417A",
         "type": "color",
         "oldValue": "#1f66a1"
       },
       "700": {
-        "value": "#053976",
+        "value": "#01315B",
         "type": "color",
         "oldValue": "#11487a"
       },
       "800": {
-        "value": "#04264e",
+        "value": "#01203D",
         "type": "color",
         "oldValue": "#082d54"
       },
       "900": {
-        "value": "#021327",
+        "value": "#00101E",
         "type": "color",
         "oldValue": "#04172e"
       }
@@ -413,38 +413,6 @@
         "value": "#212121",
         "type": "color",
         "oldValue": "#000000"
-      }
-    },
-    "others": {
-      "Card": {
-        "value": "#f3f4f9",
-        "type": "color"
-      },
-      "Hijau pijar": {
-        "value": "#8bc53f",
-        "type": "color"
-      }
-    },
-    "gradation": {
-      "Blue 1": {
-        "value": "linear-gradient(180deg, #51c8ec 0%, #3088c8 100%)",
-        "type": "color"
-      },
-      "orange": {
-        "value": "linear-gradient(180deg, #ffc932 0%, #f69421 100%)",
-        "type": "color"
-      },
-      "Yellow": {
-        "value": "linear-gradient(180deg, #fff100 0%, #e1ae25 100%)",
-        "type": "color"
-      },
-      "Brown": {
-        "value": "linear-gradient(180deg, #fbad18 0%, #c66328 100%)",
-        "type": "color"
-      },
-      "Red": {
-        "value": "linear-gradient(180deg, #ed1f24 0%, #a72649 100%)",
-        "type": "color"
       }
     },
     "fontFamilies": {
