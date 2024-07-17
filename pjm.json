@@ -937,7 +937,7 @@
   "field": {
     "default": {
       "backgroundColor": {
-        "value": "{base.white}",
+        "value": "{tertiary.50}",
         "type": "color"
       },
       "outlineColor": {
