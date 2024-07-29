@@ -807,7 +807,7 @@
         "type": "color"
       },
       "borderColor": {
-        "value": "{secondary.200}",
+        "value": "{secondary.300}",
         "type": "color"
       }
     },
