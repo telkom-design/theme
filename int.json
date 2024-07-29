@@ -757,7 +757,7 @@
     },
     "active": {
       "backgroundColor": {
-        "value": "{primary.500}",
+        "value": "{success.500}",
         "type": "color"
       },
       "color": {
@@ -765,7 +765,7 @@
         "type": "color"
       },
       "border": {
-        "value": "{primary.200}",
+        "value": "{success.200}",
         "type": "color"
       }
     },
@@ -799,7 +799,7 @@
     },
     "active": {
       "outlineColor": {
-        "value": "{primary.400}",
+        "value": "{secondary.500}",
         "type": "color"
       },
       "placeholderColor": {
@@ -807,7 +807,7 @@
         "type": "color"
       },
       "borderColor": {
-        "value": "#E9FAFA",
+        "value": "{secondary.200}",
         "type": "color"
       }
     },
