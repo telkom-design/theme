@@ -603,19 +603,19 @@
   "anchor": {
     "default": {
       "color": {
-        "value": "{secondary.900}",
+        "value": "{primary.500}",
         "type": "color"
       }
     },
     "hover": {
       "color": {
-        "value": "{secondary.900}",
+        "value": "{primary.600}",
         "type": "color"
       }
     },
     "active": {
       "color": {
-        "value": "{primary.900}",
+        "value": "{primary.700}",
         "type": "color"
       }
     },
@@ -627,7 +627,7 @@
     },
     "disable": {
       "color": {
-        "value": "{tertiary.600}",
+        "value": "{tertiary.300}",
         "type": "color"
       }
     }
