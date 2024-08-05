@@ -768,7 +768,7 @@
       },
       "hover": {
         "backgroundColor": {
-          "value": "{primary.25}",
+          "value": "{primary.50}",
           "type": "color"
         },
         "color": {
@@ -778,7 +778,7 @@
       },
       "active": {
         "backgroundColor": {
-          "value": "{primary.50}",
+          "value": "{primary.100}",
           "type": "color"
         },
         "color": {
