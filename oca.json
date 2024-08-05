@@ -989,55 +989,55 @@
         "type": "color"
       },
       "outlineColor": {
-        "value": "{tertiary.300}",
+        "value": "{tertiary.200}",
         "type": "color"
       },
       "iconColor": {
-        "value": "{tertiary.800}",
+        "value": "{tertiary.500}",
         "type": "color"
       },
       "placeholderColor": {
-        "value": "{tertiary.300}",
+        "value": "{tertiary.500}",
         "type": "color"
       },
       "labelColor": {
-        "value": "{tertiary.900}",
+        "value": "{tertiary.800}",
         "type": "color"
       }
     },
     "active": {
       "outlineColor": {
-        "value": "{secondary.900}",
+        "value": "{primary.200}",
         "type": "color"
       },
       "placeholderColor": {
-        "value": "{tertiary.900}",
+        "value": "{tertiary.500}",
         "type": "color"
       },
       "borderColor": {
-        "value": "{secondary.200}",
+        "value": "{primary.100}",
         "type": "color"
       }
     },
     "error": {
       "outlineColor": {
-        "value": "{error.900}",
+        "value": "{error.500}",
         "type": "color"
       }
     },
     "success": {
       "outlineColor": {
-        "value": "{success.900}",
+        "value": "{success.500}",
         "type": "color"
       }
     },
     "disable": {
       "backgroundColor": {
-        "value": "{tertiary.25}",
+        "value": "{tertiary.50}",
         "type": "color"
       },
       "outlineColor": {
-        "value": "{tertiary.25}",
+        "value": "{tertiary.200}",
         "type": "color"
       },
       "placeholderColor": {
@@ -1047,16 +1047,16 @@
     },
     "prefixsufix": {
       "lineColor": {
-        "value": "{tertiary.300}",
+        "value": "{tertiary.100}",
         "type": "color"
       },
       "textColor": {
-        "value": "{tertiary.900}",
+        "value": "{tertiary.500}",
         "type": "color"
       }
     },
     "borderRadius": {
-      "value": "{1}",
+      "value": "{5}",
       "type": "borderRadius"
     },
     "defaultselect": {
