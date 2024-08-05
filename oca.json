@@ -635,7 +635,7 @@
   "badge": {
     "primary": {
       "backgroundColor": {
-        "value": "{error.900}",
+        "value": "{primary.500}",
         "type": "color"
       },
       "Color": {
@@ -645,7 +645,7 @@
     },
     "secondary": {
       "backgroundColor": {
-        "value": "{secondary.900}",
+        "value": "{primary.500}",
         "type": "color"
       },
       "Color": {
@@ -655,46 +655,46 @@
     },
     "error": {
       "backgroundColor": {
-        "value": "{error.50}",
+        "value": "{error.500}",
         "type": "color"
       },
       "Color": {
-        "value": "{error.900}",
+        "value": "{base.white}",
         "type": "color"
       }
     },
     "info": {
       "backgroundColor": {
-        "value": "{information.50}",
+        "value": "{information.500}",
         "type": "color"
       },
       "Color": {
-        "value": "{information.600}",
+        "value": "{base.white}",
         "type": "color"
       }
     },
     "success": {
       "backgroundColor": {
-        "value": "{success.50}",
+        "value": "{success.500}",
         "type": "color"
       },
       "Color": {
-        "value": "{success.900}",
+        "value": "{base.white}",
         "type": "color"
       }
     },
     "warning": {
       "backgroundColor": {
-        "value": "{warning.50}",
+        "value": "{warning.500}",
         "type": "color"
       },
       "Color": {
-        "value": "{warning.900}",
+        "value": "{base.white}",
         "type": "color"
       }
     },
     "borderRadius": {
-      "value": "{8}",
+      "value": "{2}",
       "type": "borderRadius"
     }
   },
