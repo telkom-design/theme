@@ -702,7 +702,7 @@
     "solid": {
       "default": {
         "backgroundColor": {
-          "value": "{primary.500}",
+          "value": "{information.600}",
           "type": "color"
         },
         "color": {
