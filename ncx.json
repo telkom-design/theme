@@ -3212,7 +3212,7 @@
       }
     },
     "borderRadius": {
-      "value": "{4}",
+      "value": "{2}",
       "type": "borderRadius"
     },
     "outline": {
