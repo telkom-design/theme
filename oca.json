@@ -1195,7 +1195,7 @@
         "type": "color"
       },
       "color": {
-        "value": "{base.white}",
+        "value": "{information.500}",
         "type": "color"
       }
     },
@@ -1213,7 +1213,7 @@
         "type": "color"
       },
       "color": {
-        "value": "{error.900}",
+        "value": "{error.500}",
         "type": "color"
       }
     },
@@ -1231,7 +1231,7 @@
         "type": "color"
       },
       "color": {
-        "value": "{warning.900}",
+        "value": "{warning.500}",
         "type": "color"
       }
     },
@@ -1249,7 +1249,7 @@
         "type": "color"
       },
       "color": {
-        "value": "{success.900}",
+        "value": "{success.500}",
         "type": "color"
       }
     }
