@@ -1314,6 +1314,16 @@
       }
     }
   },
+  "tooltip": {
+    "backgroundColor": {
+      "value": "{tertiary.800}",
+      "type": "color"
+    },
+    "color": {
+      "value": "{base.white}",
+      "type": "color"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
@@ -1328,7 +1338,8 @@
       "radio",
       "switch",
       "sidebar",
-      "alert"
+      "alert",
+      "tooltip"
     ]
   }
 }
