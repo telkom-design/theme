@@ -1175,7 +1175,7 @@
         "type": "color"
       },
       "Color": {
-        "value": "{base.white}",
+        "value": "{primary.500}",
         "type": "color"
       }
     }
