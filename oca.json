@@ -1038,7 +1038,7 @@
       }
     },
     "borderRadius": {
-      "value": "{1}",
+      "value": "{2}",
       "type": "borderRadius"
     }
   },
