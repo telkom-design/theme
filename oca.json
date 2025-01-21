@@ -978,6 +978,14 @@
           "type": "color"
         }
       }
+    },
+    "fontWeight": {
+      "value": "{semiBold}",
+      "type": "fontWeights"
+    },
+    "fontSize": {
+      "value": "{bodySmall}",
+      "type": "fontSizes"
     }
   },
   "checkbox": {
