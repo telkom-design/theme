@@ -1127,7 +1127,7 @@
     },
     "activedisable": {
       "backgroundColor": {
-        "value": "{secondary.100}",
+        "value": "{primary.200}",
         "type": "color"
       }
     },
@@ -1147,7 +1147,7 @@
   "sidebar": {
     "default": {
       "Color": {
-        "value": "{tertiary.800}",
+        "value": "{tertiary.600}",
         "type": "color"
       },
       "backgroundColor": {
@@ -1155,23 +1155,23 @@
         "type": "color"
       },
       "iconColor": {
-        "value": "{primary.300}",
+        "value": "{tertiary.600}",
         "type": "color"
       }
     },
     "hover": {
       "backgroundColor": {
-        "value": "{primary.100}",
+        "value": "{tertiary.50}",
         "type": "color"
       },
       "Color": {
-        "value": "{primary.500}",
+        "value": "{tertiary.600}",
         "type": "color"
       }
     },
     "active": {
       "backgroundColor": {
-        "value": "{primary.600}",
+        "value": "{primary.50}",
         "type": "color"
       },
       "Color": {
