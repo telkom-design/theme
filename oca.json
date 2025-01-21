@@ -604,6 +604,18 @@
     "captionSmall": {
       "value": "8",
       "type": "fontSizes"
+    },
+    "regular": {
+      "value": "400",
+      "type": "fontWeights"
+    },
+    "semiBold": {
+      "value": "600",
+      "type": "fontWeights"
+    },
+    "bold": {
+      "value": "700",
+      "type": "fontWeights"
     }
   },
   "radius": {
