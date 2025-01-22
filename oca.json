@@ -748,6 +748,14 @@
     "borderRadius": {
       "value": "{2}",
       "type": "borderRadius"
+    },
+    "text": {
+      "value": {
+        "fontFamily": "{body}",
+        "fontWeight": "{semiBold}",
+        "fontSize": "{bodySmall}"
+      },
+      "type": "typography"
     }
   },
   "button": {
