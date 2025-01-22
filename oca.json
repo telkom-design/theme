@@ -748,14 +748,6 @@
     "borderRadius": {
       "value": "{2}",
       "type": "borderRadius"
-    },
-    "fontWeight": {
-      "value": "{semiBold}",
-      "type": "fontWeights"
-    },
-    "fontSize": {
-      "value": "{bodySmall}",
-      "type": "fontSizes"
     }
   },
   "button": {
@@ -987,13 +979,13 @@
         }
       }
     },
-    "fontWeight": {
-      "value": "{semiBold}",
-      "type": "fontWeights"
-    },
-    "fontSize": {
-      "value": "{bodySmall}",
-      "type": "fontSizes"
+    "text": {
+      "value": {
+        "fontFamily": "{body}",
+        "fontWeight": "{semiBold}",
+        "fontSize": "{bodySmall}"
+      },
+      "type": "typography"
     }
   },
   "checkbox": {
