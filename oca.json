@@ -655,19 +655,19 @@
   "anchor": {
     "default": {
       "color": {
-        "value": "{primary.500}",
+        "value": "{tertiary.600}",
         "type": "color"
       }
     },
     "hover": {
       "color": {
-        "value": "{primary.600}",
+        "value": "{tertiary.600}",
         "type": "color"
       }
     },
     "active": {
       "color": {
-        "value": "{primary.700}",
+        "value": "{primary.600}",
         "type": "color"
       }
     },
