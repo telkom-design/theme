@@ -490,7 +490,7 @@
       }
     },
     "borderRadius": {
-      "value": "{7}",
+      "value": "24",
       "type": "borderRadius"
     }
   },
