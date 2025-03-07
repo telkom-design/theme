@@ -606,7 +606,7 @@
     "outline": {
       "default": {
         "backgroundColor": {
-          "value": "{base.white}",
+          "value": "{primary.25}",
           "type": "color"
         },
         "color": {
